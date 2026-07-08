@@ -1,0 +1,43 @@
+name mobile_tariff
+title.ru Выбор тарифа мобильной связи
+title.en Mobile tariff choice
+task regression
+family MobileTariff
+variant easy
+rows 100
+columns 7
+version 1.0
+features internet_gb, voice_minutes, sms_count, roaming_flag, rollover_flag, messenger_unlimited_flag
+target price_rub
+
+description.ru Синтетический учебный датасет для предсказания цены тарифа мобильной связи на основе его наполнения (ГБ, минуты, SMS, опции).
+description.en Synthetic educational dataset for predicting mobile tariff price based on its composition (GB, minutes, SMS, options).
+source Synthetic dataset based on typical telecom data plans
+url https://github.com/tisomeke/ml_datasets_pascalabc.net
+license MIT
+synthetic true
+missing no
+
+feature.internet_gb float
+feature.voice_minutes int
+feature.sms_count int
+feature.roaming_flag bool
+feature.rollover_flag bool
+feature.messenger_unlimited_flag bool
+feature.price_rub float
+
+feature.internet_gb.ru объём интернет-трафика в Гб
+feature.voice_minutes.ru количество минут разговора
+feature.sms_count.ru количество SMS-сообщений
+feature.roaming_flag.ru флаг наличия роуминга
+feature.rollover_flag.ru флаг переноса остатков на следующий месяц
+feature.messenger_unlimited_flag.ru флаг безлимита на мессенджеры
+feature.price_rub.ru стоимость тарифа в рублях
+
+feature.internet_gb.en internet traffic in GB
+feature.voice_minutes.en call minutes
+feature.sms_count.en SMS count
+feature.roaming_flag.en roaming flag
+feature.rollover_flag.en carry-over of unused data flag
+feature.messenger_unlimited_flag.en unlimited messengers flag
+feature.price_rub.en tariff price in rubles
