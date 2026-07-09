@@ -29,6 +29,16 @@
 
 ## Формула
 
+Целевая переменная `price_rub` формируется по формуле:
+
+```
+price_rub = 100 + 7 × internet_gb + 0.05 × voice_minutes + 0.02 × sms_count
+           + 120 × roaming_flag + 60 × rollover_flag + 80 × messenger_unlimited_flag
+           + 0.03 × internet_gb² + шум(σ=25)
+```
+
+В LaTeX-нотации:
+
 $$
 \text{price\_rub} = 100 + 7 \cdot \text{internet\_gb} + 0.05 \cdot \text{voice\_minutes} + 0.02 \cdot \text{sms\_count} + 120 \cdot \text{roaming\_flag} + 60 \cdot \text{rollover\_flag} + 80 \cdot \text{messenger\_unlimited\_flag} + 0.03 \cdot \text{internet\_gb}^2 + \varepsilon, \quad \varepsilon \sim \mathcal{N}(0,\,25)
 $$

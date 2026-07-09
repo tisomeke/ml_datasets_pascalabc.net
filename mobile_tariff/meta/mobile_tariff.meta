@@ -3,7 +3,7 @@ title.ru Выбор тарифа мобильной связи
 title.en Mobile tariff choice
 task regression
 family MobileTariff
-variant easy
+variant base
 rows 100
 columns 7
 version 1.0

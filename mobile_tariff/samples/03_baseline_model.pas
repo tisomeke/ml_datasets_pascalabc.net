@@ -20,7 +20,7 @@ begin
   
   // Разбиение на обучающую (80%) и тестовую (20%) выборки
   var (X_train, X_test, y_train, y_test) :=
-    Validation.TrainTestSplit(X, y, testRatio := 0.2);
+    Validation.TrainTestSplit(X, y, testRatio := 0.2, seed := 42);
   
   // Масштабирование признаков
   var scaler := new StandardScaler();
@@ -28,7 +28,7 @@ begin
   var X_test_scaled := scaler.Transform(X_test);
   
   // Обучение модели KNN-регрессии
-  var model := new KNNRegressor(3);
+  var model := new KNNRegressor(7);
   model.Fit(X_train_scaled, y_train);
   
   // Предсказание
