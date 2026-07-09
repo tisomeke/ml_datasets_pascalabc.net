@@ -2,5 +2,9 @@
 .codeassist*/
 
 generate_dataset.py
+*.py
 
 mobile_tariff_processed.csv
+
+*.exe
+*.mdb
