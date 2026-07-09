@@ -1,12 +1,12 @@
 ﻿uses MLABC;
 
 begin
-  var df := DataFrame.FromCSV('../data/mobile_tariff.csv');
+  var df := DataFrame.FromCsv('../data/mobile_tariff.csv');
   
-  writeln('=== Схема данных и типы признаков ===');
+  writeln('=== Схема данных ===');
   df.Schema.Print;
   
   writeln;
-  writeln('=== Первичный статистический анализ ===');
+  writeln('=== Статистика ===');
   df.Describe().Print;
 end.

@@ -2,7 +2,7 @@ uses MLABC;
 
 begin
   // Загрузка датасета
-  var df := DataFrame.FromCSV('../data/data_air_cities_raw.csv');
+  var df := DataFrame.FromCsv('../data/data_air_cities_raw.csv');
   
   // Подробное описание числовых столбцов
   Writeln('=== Статистика числовых признаков ===');

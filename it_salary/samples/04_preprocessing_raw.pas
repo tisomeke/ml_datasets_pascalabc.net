@@ -7,20 +7,24 @@ begin
   writelnFormat('Размерность: {0} строк, {1} столбцов', df.RowCount, df.ColumnCount);
   writeln;
 
-  // 1. Удаление текстового столбца description и столбца даты:
-  //    для базовой модели они не используются
-  df := df.Drop(['description', 'posted_date']);
+  // 1. Удаляем description (текст), извлекаем месяц из posted_date
+  df := df.Drop(['description']);
+  df := df.WithColumnInt('posted_month', r ->
+    begin
+      var dt := r['posted_date'];
+      if not dt.IsValid then Result := -1  // пропуск
+      else Result := dt.ToDateTime.Month;
+    end);
+  df := df.Drop(['posted_date']);
 
-  // 2. Вывод числа пропусков по всем столбцам
+  // 2. Пропуски до обработки
   writeln('=== Пропуски до обработки ===');
   df.MissingCounts.Print;
   writeln;
 
-  // 3. Заполнение пропусков
-  //    Числовой признак — медианой
+  // 3. Заполняем пропуски: числовые — медианой, категориальные — 'unknown'
   var impExp := new Imputer(ImputeStrategy.isMedian, ['experience_years']);
   df := impExp.FitTransform(df);
-  //    Категориальные признаки — константой 'unknown'
   var impFormat := new Imputer('unknown', ['work_format']);
   df := impFormat.FitTransform(df);
   var impCompany := new Imputer('unknown', ['company_segment']);
@@ -32,17 +36,15 @@ begin
   df.MissingCounts.Print;
   writeln;
 
-  // 4. Удаление выбросов по salary_rub (Z-score метод)
-  //    Вычисляем среднее и стандартное отклонение
+  // 4. Удаляем выбросы по salary_rub (Z-score, порог 3σ)
   var salMean := df.Mean('salary_rub');
   var salStd := df.Std('salary_rub');
-  //    Оставляем строки, где |Z| < 3 (в пределах 3 стандартных отклонений)
   df := df.Filter(r -> Abs(r['salary_rub'].ToFloat - salMean) <= 3 * salStd);
 
   writelnFormat('После удаления выбросов (Z-score < 3): {0} строк', df.RowCount);
   writeln;
 
-  // 5. Кодирование категориальных признаков
+  // 5. Кодируем категориальные признаки
   var encGrade := new OrdinalEncoder('grade');
   df := encGrade.FitTransform(df);
   var encSpec := new OrdinalEncoder('specialization');
@@ -56,9 +58,9 @@ begin
   var encEdu := new OrdinalEncoder('education');
   df := encEdu.FitTransform(df);
 
-  // 6. Построение модели
+  // 6. Модель: признаки + posted_month
   var X := df.ToMatrix(['experience_years', 'grade', 'specialization', 'city',
-                        'work_format', 'company_segment', 'education']);
+                        'work_format', 'company_segment', 'education', 'posted_month']);
   var y := df.ToMatrix(['salary_rub']).GetCol(0);
 
   var (X_train, X_test, y_train, y_test) :=
@@ -76,4 +78,6 @@ begin
   writelnFormat('R²:   {0:F4}', Metrics.R2(y_test, pred));
   writelnFormat('MAE:  {0:F0} руб.', Metrics.MAE(y_test, pred));
   writelnFormat('RMSE: {0:F0} руб.', Metrics.RMSE(y_test, pred));
+  writeln('Примечание: OrdinalEncoder для city навязывает порядок.');
+  writeln('Для неупорядоченных категорий предпочтительнее OneHotEncoder.');
 end.

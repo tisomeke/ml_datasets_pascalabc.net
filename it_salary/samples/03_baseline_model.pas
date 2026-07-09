@@ -46,4 +46,6 @@ begin
   writelnFormat('R²:   {0:F4}', Metrics.R2(y_test, pred));
   writelnFormat('MAE:  {0:F0} руб.', Metrics.MAE(y_test, pred));
   writelnFormat('RMSE: {0:F0} руб.', Metrics.RMSE(y_test, pred));
+  writeln('Примечание: OrdinalEncoder для city навязывает порядок.');
+  writeln('Для неупорядоченных категорий предпочтительнее OneHotEncoder.');
 end.

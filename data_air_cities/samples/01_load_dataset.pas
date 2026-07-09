@@ -2,7 +2,7 @@ uses MLABC;
 
 begin
   // Загрузка датасета о качестве атмосферного воздуха в городах РФ
-  var df := DataFrame.FromCSV('../data/data_air_cities_raw.csv');
+  var df := DataFrame.FromCsv('../data/data_air_cities_raw.csv');
   
   // Вывод первых 10 строк
   Writeln('=== Первые 10 строк ===');

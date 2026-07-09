@@ -7,7 +7,7 @@ variant raw
 rows 3992
 columns 15
 version 1.0
-features year, region, region_oktmo, city, city_oktmo, air_general_level, air_standard_index, air_repeatability, air_qcp, air_solid_emissions, air_so_emissions, air_no_emissions, air_co_emissions, air_population, air_stantions
+features year, region, region_oktmo, city, city_oktmo, air_standard_index, air_repeatability, air_qcp, air_solid_emissions, air_so_emissions, air_no_emissions, air_co_emissions, air_population, air_stantions
 target air_general_level
 source Росгидромет (ГГО им. А.И. Воейкова), проект «Если быть точным»
 url https://github.com/tochno-st/air_quality_cities.git
