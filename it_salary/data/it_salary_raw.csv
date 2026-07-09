@@ -1,0 +1,751 @@
+experience_years,grade,specialization,city,work_format,company_segment,education,posted_date,description,salary_rub
+4,senior,frontend,nizhny_novgorod,office,mid_product,higher_general,2025-05-11,"Открыта позиция senior frontend. Технологии: Vue.js, Nuxt. Формат: офис.",295000
+6,senior,mobile,moscow,office,enterprise,higher_general,2026-04-20,"Требуется mobile (senior). Flutter, Dart, office формат. Москва.",665000
+15,lead,backend,moscow,office,bigtech,NA,2025-01-21,"Требуется backend (lead). Java, Spring, office формат. Москва.",955000
+11,lead,mobile,rostov,remote,enterprise,higher_tech,2026-03-31,Открыта позиция lead mobile. Технологии: React Native. Формат: удалёнка.,410000
+1,junior,data_science,spb,office,enterprise,not_specified,2026-02-06,"enterprise приглашает data_science. Требования: TensorFlow, Pandas, опыт 0.7+ лет.",130000
+4,senior,mobile,rostov,office,smb,higher_tech,2025-10-23,"Открыта позиция senior mobile. Технологии: Kotlin, Android. Формат: офис.",285000
+7,senior,backend,moscow,office,enterprise,not_specified,2026-04-17,"Вакансия backend senior: Go, gRPC. Зарплата по результатам собеседования.",485000
+8,senior,devops,rostov,office,NA,not_specified,2025-02-02,"Открыта позиция senior devops. Технологии: Linux, Bash. Формат: офис.",515000
+3,middle,devops,kazan,remote,mid_product,higher_general,2026-01-28,"Требуется devops (middle). CI/CD, GitLab, remote формат. Регион.",245000
+1,junior,backend,moscow,NA,mid_product,not_specified,2026-02-11,"Вакансия backend junior: C#, .NET. Зарплата по результатам собеседования.",135000
+5,senior,backend,kazan,NA,mid_product,not_specified,2025-12-06,"Требуется backend (senior). Go, gRPC, remote формат. Регион.",325000
+2,middle,backend,kazan,office,enterprise,not_specified,2025-09-16,"Ищем middle backend в команду. Стек: Go, gRPC. Опыт от 2.4+ лет.",220000
+3,middle,frontend,moscow,office,NA,higher_general,2026-03-18,"enterprise приглашает frontend. Требования: Next.js, Tailwind, опыт 2.9+ лет.",290000
+3,middle,backend,moscow,remote,enterprise,higher_tech,2025-08-13,"Вакансия backend middle: Java, Spring. Зарплата по результатам собеседования.",335000
+2,middle,qa,spb,office,mid_product,not_specified,NA,"Вакансия qa middle: Java, JUnit. Зарплата по результатам собеседования.",195000
+5,senior,data_science,moscow,hybrid,mid_product,not_specified,NA,"Вакансия data_science senior: TensorFlow, Pandas. Зарплата по результатам собеседования.",410000
+NA,middle,data_science,moscow,office,smb,NA,2025-05-31,"Требуется data_science (middle). SQL, Spark, office формат. Москва.",265000
+2,middle,backend,ekaterinburg,office,mid_product,not_specified,2026-03-29,"Вакансия backend middle: C#, .NET. Зарплата по результатам собеседования.",560000
+4,middle,backend,kazan,office,outsource,NA,2025-09-11,"Ищем middle backend в команду. Стек: Go, gRPC. Опыт от 3.7+ лет.",210000
+0,intern,qa,moscow,remote,mid_product,not_specified,2025-06-10,"Ищем intern qa в команду. Стек: Cypress, JS. Опыт от 0.1+ лет.",45000
+1,junior,frontend,moscow,office,outsource,not_specified,2025-01-22,"Открыта позиция junior frontend. Технологии: Vue.js, Nuxt. Формат: офис.",105000
+8,senior,frontend,spb,remote,enterprise,NA,2026-05-31,"Ищем senior frontend в команду. Стек: Angular, RxJS. Опыт от 7.5+ лет.",365000
+15,lead,backend,spb,remote,NA,not_specified,2025-04-09,"Ищем lead backend в команду. Стек: Node.js, Express. Опыт от 14.7+ лет.",600000
+2,middle,backend,moscow,office,NA,not_specified,2025-11-19,"Требуется backend (middle). Python, Django, office формат. Москва.",285000
+3,middle,backend,moscow,remote,NA,higher_general,2026-02-12,"outsource приглашает backend. Требования: C#, .NET, опыт 2.9+ лет.",240000
+4,middle,frontend,kazan,NA,mid_product,not_specified,2026-04-16,"mid_product приглашает frontend. Требования: Angular, RxJS, опыт 3.7+ лет.",155000
+4,middle,qa,kazan,hybrid,enterprise,higher_general,2025-02-23,"enterprise приглашает qa. Требования: Postman, SQL, опыт 3.6+ лет.",160000
+5,senior,frontend,moscow,hybrid,NA,not_specified,2025-12-16,"Вакансия frontend senior: Angular, RxJS. Зарплата по результатам собеседования.",375000
+5,senior,qa,nizhny_novgorod,NA,mid_product,NA,2026-04-19,"Ищем senior qa в команду. Стек: Python, Pytest, Selenium. Опыт от 5.1+ лет.",145000
+1,junior,qa,kazan,office,NA,not_specified,2025-08-25,"Ищем junior qa в команду. Стек: Python, Pytest, Selenium. Опыт от 0.7+ лет.",70000
+5,senior,mobile,ekaterinburg,office,mid_product,not_specified,2025-08-06,"Открыта позиция senior mobile. Технологии: Swift, iOS. Формат: офис.",335000
+NA,junior,frontend,spb,remote,enterprise,not_specified,2025-08-11,"Требуется frontend (junior). Vue.js, Nuxt, remote формат. Санкт-Петербург.",105000
+4,middle,mobile,rostov,remote,mid_product,not_specified,2026-01-15,"Ищем middle mobile в команду. Стек: Kotlin, Android. Опыт от 3.9+ лет.",270000
+5,senior,data_science,nizhny_novgorod,office,outsource,not_specified,NA,"Требуется data_science (senior). SQL, Spark, office формат. Регион.",305000
+2,middle,backend,moscow,remote,mid_product,not_specified,NA,"Открыта позиция middle backend. Технологии: Python, Django. Формат: удалёнка.",310000
+NA,junior,mobile,spb,office,smb,not_specified,2025-04-09,"smb приглашает mobile. Требования: React Native, опыт 1.1+ лет.",215000
+7,senior,frontend,moscow,office,smb,not_specified,2025-09-30,"smb приглашает frontend. Требования: React, TypeScript, опыт 7.0+ лет.",670000
+2,middle,data_science,novosibirsk,remote,enterprise,higher_tech,2026-03-31,"enterprise приглашает data_science. Требования: scikit-learn, опыт 1.7+ лет.",215000
+3,middle,qa,spb,NA,enterprise,not_specified,2025-04-19,"Требуется qa (middle). Python, Pytest, Selenium, remote формат. Санкт-Петербург.",200000
+15,lead,mobile,moscow,NA,outsource,not_specified,NA,"Требуется mobile (lead). Swift, iOS, remote формат. Москва.",520000
+1,junior,qa,moscow,hybrid,outsource,NA,2026-05-26,"Ищем junior qa в команду. Стек: Postman, SQL. Опыт от 1.2+ лет.",100000
+2,middle,qa,kazan,NA,mid_product,not_specified,NA,"Вакансия qa middle: Postman, SQL. Зарплата по результатам собеседования.",130000
+NA,middle,backend,rostov,remote,outsource,not_specified,2026-05-20,"Ищем middle backend в команду. Стек: Node.js, Express. Опыт от 3.4+ лет.",160000
+2,middle,backend,spb,remote,outsource,not_specified,2025-03-21,"Вакансия backend middle: C#, .NET. Зарплата по результатам собеседования.",245000
+NA,middle,mobile,rostov,office,bigtech,higher_general,2025-01-12,"bigtech приглашает mobile. Требования: Swift, iOS, опыт 2.2+ лет.",420000
+2,middle,backend,moscow,office,mid_product,not_specified,2025-02-10,"Вакансия backend middle: Node.js, Express. Зарплата по результатам собеседования.",300000
+4,middle,qa,moscow,office,outsource,not_specified,2026-03-26,"Требуется qa (middle). Java, JUnit, office формат. Москва.",190000
+1,junior,qa,spb,hybrid,outsource,not_specified,2025-10-09,"Ищем junior qa в команду. Стек: Postman, SQL. Опыт от 0.9+ лет.",85000
+4,senior,mobile,nizhny_novgorod,NA,mid_product,not_specified,2026-03-13,"Открыта позиция senior mobile. Технологии: Flutter, Dart. Формат: офис.",365000
+NA,senior,devops,moscow,office,enterprise,higher_general,2026-03-22,"Ищем senior devops в команду. Стек: K8s, Docker, Ansible. Опыт от 5.1+ лет.",590000
+1,junior,devops,moscow,office,bigtech,not_specified,2025-08-24,"Вакансия devops junior: K8s, Docker, Ansible. Зарплата по результатам собеседования.",235000
+NA,junior,frontend,moscow,NA,outsource,not_specified,2026-02-26,"outsource приглашает frontend. Требования: Next.js, Tailwind, опыт 0.7+ лет.",80000
+3,middle,mobile,novosibirsk,remote,mid_product,higher_tech,2026-06-26,"Требуется mobile (middle). Flutter, Dart, remote формат. Регион.",285000
+6,senior,data_science,moscow,NA,smb,not_specified,2025-02-22,"Открыта позиция senior data_science. Технологии: TensorFlow, Pandas. Формат: офис.",345000
+2,middle,backend,moscow,remote,NA,not_specified,2025-10-08,"Вакансия backend middle: Go, gRPC. Зарплата по результатам собеседования.",1100000
+10,lead,frontend,samara,office,enterprise,not_specified,NA,"Ищем lead frontend в команду. Стек: React, TypeScript. Опыт от 10.4+ лет.",390000
+2,middle,frontend,ekaterinburg,office,bigtech,not_specified,2025-02-25,"Вакансия frontend middle: Vue.js, Nuxt. Зарплата по результатам собеседования.",330000
+NA,junior,mobile,moscow,office,outsource,not_specified,2025-02-25,"Требуется mobile (junior). Swift, iOS, office формат. Москва.",115000
+NA,middle,devops,samara,office,NA,higher_general,2026-05-23,"Требуется devops (middle). K8s, Docker, Ansible, office формат. Регион.",300000
+NA,middle,frontend,moscow,NA,NA,not_specified,2025-08-19,"Требуется frontend (middle). Vue.js, Nuxt, office формат. Москва.",340000
+3,middle,frontend,moscow,remote,mid_product,not_specified,2026-01-04,"Вакансия frontend middle: Next.js, Tailwind. Зарплата по результатам собеседования.",330000
+2,middle,frontend,rostov,office,NA,not_specified,NA,"Открыта позиция middle frontend. Технологии: React, TypeScript. Формат: офис.",215000
+1,junior,backend,moscow,office,enterprise,higher_general,NA,"enterprise приглашает backend. Требования: Python, Django, опыт 0.7+ лет.",120000
+8,senior,mobile,samara,remote,enterprise,higher_general,2026-01-27,"Вакансия mobile senior: Swift, iOS. Зарплата по результатам собеседования.",415000
+3,middle,data_science,rostov,remote,outsource,NA,2025-05-19,"outsource приглашает data_science. Требования: SQL, Spark, опыт 2.8+ лет.",180000
+2,middle,frontend,moscow,office,mid_product,not_specified,2025-06-17,"mid_product приглашает frontend. Требования: Vue.js, Nuxt, опыт 2.0+ лет.",315000
+2,middle,backend,samara,office,mid_product,not_specified,2026-05-28,"Открыта позиция middle backend. Технологии: Node.js, Express. Формат: офис.",230000
+7,senior,backend,moscow,hybrid,enterprise,higher_general,2026-02-14,"Ищем senior backend в команду. Стек: Node.js, Express. Опыт от 6.7+ лет.",585000
+NA,middle,data_science,rostov,office,mid_product,not_specified,2025-05-25,"Требуется data_science (middle). Python, PyTorch, office формат. Регион.",200000
+5,senior,frontend,rostov,remote,bigtech,not_specified,2026-03-24,"Открыта позиция senior frontend. Технологии: Next.js, Tailwind. Формат: удалёнка.",465000
+7,senior,frontend,nizhny_novgorod,remote,smb,not_specified,2026-06-06,"Вакансия frontend senior: React, TypeScript. Зарплата по результатам собеседования.",200000
+1,junior,devops,novosibirsk,remote,enterprise,not_specified,2025-09-18,"enterprise приглашает devops. Требования: K8s, Docker, Ansible, опыт 1.0+ лет.",120000
+5,senior,devops,rostov,office,mid_product,not_specified,NA,"Вакансия devops senior: Terraform, AWS. Зарплата по результатам собеседования.",255000
+4,middle,backend,ekaterinburg,remote,mid_product,higher_tech,2025-12-22,"Открыта позиция middle backend. Технологии: Node.js, Express. Формат: удалёнка.",255000
+3,middle,mobile,moscow,NA,mid_product,not_specified,2026-02-09,"mid_product приглашает mobile. Требования: Swift, iOS, опыт 3.3+ лет.",345000
+4,senior,backend,ekaterinburg,office,mid_product,not_specified,2025-05-17,"mid_product приглашает backend. Требования: Python, Django, опыт 4.2+ лет.",340000
+3,middle,devops,moscow,hybrid,mid_product,not_specified,2025-06-28,"Ищем middle devops в команду. Стек: Terraform, AWS. Опыт от 2.7+ лет.",365000
+2,middle,frontend,kazan,NA,enterprise,not_specified,2026-04-14,"Ищем middle frontend в команду. Стек: React, TypeScript. Опыт от 1.5+ лет.",210000
+1,junior,mobile,spb,office,bigtech,NA,2025-11-14,Открыта позиция junior mobile. Технологии: React Native. Формат: офис.,155000
+3,middle,qa,rostov,remote,mid_product,NA,2026-05-17,"Ищем middle qa в команду. Стек: Cypress, JS. Опыт от 2.8+ лет.",135000
+2,middle,frontend,moscow,hybrid,enterprise,not_specified,NA,"enterprise приглашает frontend. Требования: React, TypeScript, опыт 2.4+ лет.",365000
+6,senior,data_science,spb,office,mid_product,NA,2025-11-24,"Ищем senior data_science в команду. Стек: TensorFlow, Pandas. Опыт от 6.0+ лет.",295000
+1,junior,devops,rostov,office,enterprise,NA,2026-03-28,"Открыта позиция junior devops. Технологии: Linux, Bash. Формат: офис.",130000
+4,middle,backend,moscow,NA,bigtech,not_specified,2026-01-16,"bigtech приглашает backend. Требования: Go, gRPC, опыт 3.6+ лет.",415000
+2,middle,qa,rostov,remote,mid_product,not_specified,2025-08-14,"mid_product приглашает qa. Требования: Python, Pytest, Selenium, опыт 2.4+ лет.",155000
+NA,lead,backend,samara,hybrid,bigtech,not_specified,2025-04-25,"Ищем lead backend в команду. Стек: Java, Spring. Опыт от 11.3+ лет.",505000
+3,middle,frontend,moscow,hybrid,bigtech,not_specified,2025-03-16,"Требуется frontend (middle). Vue.js, Nuxt, hybrid формат. Москва.",370000
+NA,senior,frontend,rostov,office,bigtech,not_specified,NA,"Вакансия frontend senior: React, TypeScript. Зарплата по результатам собеседования.",315000
+8,senior,mobile,rostov,office,mid_product,not_specified,2025-05-10,Вакансия mobile senior: React Native. Зарплата по результатам собеседования.,250000
+1,junior,backend,ekaterinburg,office,bigtech,not_specified,2025-07-06,"Требуется backend (junior). Go, gRPC, office формат. Регион.",105000
+5,senior,frontend,moscow,office,NA,not_specified,2026-05-22,"Вакансия frontend senior: React, TypeScript. Зарплата по результатам собеседования.",415000
+NA,senior,frontend,moscow,office,bigtech,NA,2025-02-11,"Вакансия frontend senior: React, TypeScript. Зарплата по результатам собеседования.",540000
+4,senior,data_science,novosibirsk,office,enterprise,not_specified,2025-01-12,"Вакансия data_science senior: TensorFlow, Pandas. Зарплата по результатам собеседования.",330000
+6,senior,devops,novosibirsk,office,mid_product,not_specified,2026-05-04,"Требуется devops (senior). K8s, Docker, Ansible, office формат. Регион.",395000
+2,middle,backend,kazan,remote,NA,not_specified,2026-05-13,"Открыта позиция middle backend. Технологии: Go, gRPC. Формат: удалёнка.",210000
+NA,senior,frontend,ekaterinburg,office,enterprise,not_specified,2025-07-07,"Требуется frontend (senior). React, TypeScript, office формат. Регион.",370000
+3,middle,data_science,spb,hybrid,mid_product,not_specified,2025-06-10,Открыта позиция middle data_science. Технологии: scikit-learn. Формат: гибрид.,300000
+3,middle,qa,moscow,hybrid,outsource,higher_tech,2026-02-20,"Вакансия qa middle: Cypress, JS. Зарплата по результатам собеседования.",205000
+NA,intern,backend,moscow,office,bigtech,higher_tech,2025-12-25,"Открыта позиция intern backend. Технологии: Node.js, Express. Формат: офис.",85000
+0,intern,devops,spb,remote,enterprise,not_specified,2026-03-08,"Открыта позиция intern devops. Технологии: K8s, Docker, Ansible. Формат: удалёнка.",135000
+4,middle,mobile,moscow,hybrid,mid_product,higher_general,NA,"Вакансия mobile middle: Flutter, Dart. Зарплата по результатам собеседования.",400000
+10,lead,mobile,rostov,remote,bigtech,not_specified,2025-08-31,"Требуется mobile (lead). Kotlin, Android, remote формат. Регион.",425000
+3,middle,backend,moscow,hybrid,smb,NA,2025-01-20,"Ищем middle backend в команду. Стек: Python, Django. Опыт от 3.1+ лет.",275000
+2,middle,backend,novosibirsk,NA,mid_product,NA,2025-04-30,"Ищем middle backend в команду. Стек: C#, .NET. Опыт от 2.1+ лет.",180000
+4,middle,qa,moscow,office,outsource,not_specified,2025-09-18,"Вакансия qa middle: Postman, SQL. Зарплата по результатам собеседования.",185000
+4,middle,backend,moscow,office,mid_product,NA,2025-04-24,"Открыта позиция middle backend. Технологии: C#, .NET. Формат: офис.",1065000
+3,middle,mobile,nizhny_novgorod,remote,mid_product,not_specified,2025-12-29,"Ищем middle mobile в команду. Стек: Kotlin, Android. Опыт от 2.8+ лет.",245000
+1,junior,mobile,nizhny_novgorod,remote,enterprise,not_specified,NA,"Требуется mobile (junior). Flutter, Dart, remote формат. Регион.",105000
+3,middle,backend,nizhny_novgorod,remote,enterprise,not_specified,2025-01-17,"enterprise приглашает backend. Требования: Python, Django, опыт 2.8+ лет.",240000
+7,senior,backend,moscow,office,NA,higher_tech,2026-02-16,"Открыта позиция senior backend. Технологии: Node.js, Express. Формат: офис.",555000
+4,senior,backend,rostov,remote,bigtech,not_specified,2026-04-19,"Требуется backend (senior). Go, gRPC, remote формат. Регион.",310000
+8,lead,data_science,rostov,remote,NA,NA,2025-02-02,"Вакансия data_science lead: TensorFlow, Pandas. Зарплата по результатам собеседования.",375000
+0,intern,backend,moscow,office,mid_product,NA,2025-03-16,"Требуется backend (intern). Node.js, Express, office формат. Москва.",75000
+3,middle,devops,moscow,office,outsource,NA,2025-10-30,"Открыта позиция middle devops. Технологии: Linux, Bash. Формат: офис.",270000
+NA,middle,qa,moscow,hybrid,smb,not_specified,2025-09-28,"Вакансия qa middle: Cypress, JS. Зарплата по результатам собеседования.",150000
+1,junior,mobile,kazan,remote,outsource,NA,2026-01-22,"outsource приглашает mobile. Требования: Kotlin, Android, опыт 1.3+ лет.",85000
+4,senior,backend,kazan,NA,outsource,not_specified,NA,"Требуется backend (senior). C#, .NET, office формат. Регион.",260000
+3,middle,devops,spb,office,bigtech,NA,2025-06-15,"Вакансия devops middle: Linux, Bash. Зарплата по результатам собеседования.",430000
+NA,senior,qa,kazan,office,bigtech,NA,NA,"Ищем senior qa в команду. Стек: Cypress, JS. Опыт от 5.0+ лет.",350000
+1,junior,frontend,moscow,office,bigtech,higher_tech,2025-03-31,"Требуется frontend (junior). Vue.js, Nuxt, office формат. Москва.",135000
+NA,middle,data_science,moscow,remote,bigtech,not_specified,2025-09-21,"Требуется data_science (middle). scikit-learn, remote формат. Москва.",440000
+6,senior,qa,samara,office,NA,not_specified,2025-01-22,"Вакансия qa senior: Java, JUnit. Зарплата по результатам собеседования.",185000
+NA,junior,backend,spb,remote,NA,not_specified,2025-12-22,"Открыта позиция junior backend. Технологии: C#, .NET. Формат: удалёнка.",80000
+4,middle,devops,nizhny_novgorod,office,NA,not_specified,2025-02-28,"mid_product приглашает devops. Требования: CI/CD, GitLab, опыт 4.0+ лет.",245000
+4,middle,backend,moscow,office,bigtech,not_specified,2026-02-08,"bigtech приглашает backend. Требования: C#, .NET, опыт 3.7+ лет.",475000
+4,senior,devops,rostov,office,mid_product,not_specified,2026-05-27,"Требуется devops (senior). Linux, Bash, office формат. Регион.",1205000
+6,senior,qa,nizhny_novgorod,office,smb,not_specified,2026-06-04,"Требуется qa (senior). Cypress, JS, office формат. Регион.",175000
+14,lead,backend,moscow,office,outsource,not_specified,2025-01-14,"outsource приглашает backend. Требования: Java, Spring, опыт 14.1+ лет.",500000
+1,junior,qa,spb,remote,NA,not_specified,NA,"Вакансия qa junior: Postman, SQL. Зарплата по результатам собеседования.",65000
+3,middle,data_science,moscow,office,mid_product,not_specified,NA,"mid_product приглашает data_science. Требования: Python, PyTorch, опыт 2.6+ лет.",780000
+3,middle,frontend,moscow,NA,NA,not_specified,2025-09-08,"mid_product приглашает frontend. Требования: React, TypeScript, опыт 2.6+ лет.",280000
+1,junior,backend,kazan,office,smb,NA,2025-02-28,"Ищем junior backend в команду. Стек: C#, .NET. Опыт от 1.0+ лет.",80000
+2,junior,frontend,moscow,office,smb,not_specified,2025-08-11,"Вакансия frontend junior: Next.js, Tailwind. Зарплата по результатам собеседования.",90000
+2,middle,frontend,moscow,remote,bigtech,not_specified,2026-01-10,"Требуется frontend (middle). Next.js, Tailwind, remote формат. Москва.",370000
+7,senior,backend,moscow,office,enterprise,not_specified,2026-02-18,"Требуется backend (senior). Python, Django, office формат. Москва.",545000
+7,senior,qa,rostov,remote,NA,NA,2025-05-27,"Открыта позиция senior qa. Технологии: Postman, SQL. Формат: удалёнка.",225000
+NA,middle,qa,moscow,NA,enterprise,not_specified,2025-11-20,"Открыта позиция middle qa. Технологии: Java, JUnit. Формат: офис.",220000
+8,senior,devops,spb,office,NA,NA,2025-12-10,"Ищем senior devops в команду. Стек: Terraform, AWS. Опыт от 7.5+ лет.",320000
+3,middle,frontend,ekaterinburg,office,mid_product,not_specified,2025-04-12,"Вакансия frontend middle: Vue.js, Nuxt. Зарплата по результатам собеседования.",155000
+3,middle,qa,novosibirsk,remote,mid_product,NA,NA,"Открыта позиция middle qa. Технологии: Cypress, JS. Формат: удалёнка.",170000
+1,junior,data_science,moscow,NA,mid_product,not_specified,2025-12-30,"Вакансия data_science junior: SQL, Spark. Зарплата по результатам собеседования.",165000
+1,junior,backend,moscow,office,mid_product,not_specified,2025-11-20,"Открыта позиция junior backend. Технологии: C#, .NET. Формат: офис.",135000
+1,junior,frontend,spb,NA,enterprise,not_specified,2026-02-24,"Требуется frontend (junior). Vue.js, Nuxt, office формат. Санкт-Петербург.",85000
+14,lead,frontend,novosibirsk,remote,mid_product,higher_general,NA,"Ищем lead frontend в команду. Стек: Angular, RxJS. Опыт от 13.6+ лет.",330000
+NA,middle,qa,kazan,office,mid_product,not_specified,2025-04-28,"mid_product приглашает qa. Требования: Python, Pytest, Selenium, опыт 1.6+ лет.",150000
+2,middle,backend,nizhny_novgorod,remote,mid_product,not_specified,2025-06-03,"Открыта позиция middle backend. Технологии: Go, gRPC. Формат: удалёнка.",220000
+5,senior,frontend,ekaterinburg,remote,mid_product,not_specified,NA,"Требуется frontend (senior). Next.js, Tailwind, remote формат. Регион.",215000
+NA,middle,frontend,moscow,office,enterprise,not_specified,2025-03-18,"Ищем middle frontend в команду. Стек: React, TypeScript. Опыт от 3.1+ лет.",305000
+13,lead,frontend,moscow,office,mid_product,not_specified,2025-06-16,"mid_product приглашает frontend. Требования: React, TypeScript, опыт 13.0+ лет.",510000
+4,senior,backend,moscow,office,enterprise,higher_general,2026-06-01,"Вакансия backend senior: Node.js, Express. Зарплата по результатам собеседования.",735000
+2,middle,qa,rostov,NA,mid_product,not_specified,2025-07-28,"Требуется qa (middle). Postman, SQL, office формат. Регион.",140000
+3,middle,frontend,nizhny_novgorod,remote,NA,not_specified,2025-11-07,"Требуется frontend (middle). Next.js, Tailwind, remote формат. Регион.",230000
+4,middle,backend,kazan,remote,enterprise,not_specified,2025-04-14,"enterprise приглашает backend. Требования: C#, .NET, опыт 3.8+ лет.",220000
+3,middle,mobile,nizhny_novgorod,office,mid_product,not_specified,2025-06-10,"mid_product приглашает mobile. Требования: Kotlin, Android, опыт 3.4+ лет.",725000
+2,middle,devops,moscow,office,enterprise,not_specified,2025-06-29,"Требуется devops (middle). Terraform, AWS, office формат. Москва.",345000
+2,middle,qa,kazan,remote,mid_product,NA,2025-08-27,"Требуется qa (middle). Python, Pytest, Selenium, remote формат. Регион.",150000
+NA,middle,frontend,samara,office,NA,not_specified,NA,"Требуется frontend (middle). Angular, RxJS, office формат. Регион.",185000
+3,middle,mobile,novosibirsk,office,mid_product,not_specified,2025-04-20,Открыта позиция middle mobile. Технологии: React Native. Формат: офис.,305000
+6,senior,frontend,novosibirsk,office,mid_product,higher_general,2025-01-12,"mid_product приглашает frontend. Требования: Next.js, Tailwind, опыт 6.0+ лет.",275000
+3,middle,frontend,spb,office,bigtech,NA,2025-03-01,"Вакансия frontend middle: Angular, RxJS. Зарплата по результатам собеседования.",315000
+3,middle,frontend,moscow,remote,enterprise,not_specified,2025-04-09,"Ищем middle frontend в команду. Стек: React, TypeScript. Опыт от 3.0+ лет.",280000
+2,middle,devops,moscow,remote,mid_product,not_specified,2025-04-11,"mid_product приглашает devops. Требования: CI/CD, GitLab, опыт 2.1+ лет.",240000
+3,middle,frontend,nizhny_novgorod,remote,mid_product,higher_general,NA,"Открыта позиция middle frontend. Технологии: Vue.js, Nuxt. Формат: удалёнка.",180000
+12,lead,frontend,moscow,remote,bigtech,NA,NA,"Открыта позиция lead frontend. Технологии: Vue.js, Nuxt. Формат: удалёнка.",465000
+0,intern,backend,moscow,hybrid,smb,NA,2025-11-04,"Требуется backend (intern). C#, .NET, hybrid формат. Москва.",60000
+7,senior,backend,moscow,remote,mid_product,not_specified,2025-01-21,"Открыта позиция senior backend. Технологии: Python, Django. Формат: удалёнка.",400000
+1,junior,backend,ekaterinburg,office,smb,not_specified,2025-08-20,"smb приглашает backend. Требования: C#, .NET, опыт 0.8+ лет.",75000
+3,middle,qa,rostov,office,mid_product,not_specified,2026-04-12,"mid_product приглашает qa. Требования: Python, Pytest, Selenium, опыт 2.8+ лет.",145000
+2,middle,frontend,moscow,NA,bigtech,not_specified,2026-01-01,"Вакансия frontend middle: Next.js, Tailwind. Зарплата по результатам собеседования.",340000
+7,senior,mobile,kazan,office,enterprise,not_specified,2026-06-04,"Требуется mobile (senior). React Native, office формат. Регион.",485000
+NA,junior,backend,rostov,remote,enterprise,not_specified,2026-01-17,"Ищем junior backend в команду. Стек: Node.js, Express. Опыт от 0.9+ лет.",95000
+4,middle,qa,moscow,office,smb,not_specified,NA,"Открыта позиция middle qa. Технологии: Python, Pytest, Selenium. Формат: офис.",160000
+3,middle,mobile,novosibirsk,office,enterprise,higher_tech,2025-05-04,"Ищем middle mobile в команду. Стек: Swift, iOS. Опыт от 3.0+ лет.",290000
+4,middle,backend,ekaterinburg,NA,mid_product,not_specified,2025-05-02,"mid_product приглашает backend. Требования: Java, Spring, опыт 4.0+ лет.",205000
+3,middle,mobile,ekaterinburg,remote,mid_product,not_specified,NA,"mid_product приглашает mobile. Требования: Kotlin, Android, опыт 3.4+ лет.",230000
+1,junior,backend,moscow,office,outsource,not_specified,2025-03-29,"Открыта позиция junior backend. Технологии: Node.js, Express. Формат: офис.",115000
+NA,senior,frontend,rostov,office,mid_product,higher_general,NA,"Требуется frontend (senior). Angular, RxJS, office формат. Регион.",335000
+8,senior,qa,novosibirsk,office,outsource,not_specified,NA,"Требуется qa (senior). Python, Pytest, Selenium, office формат. Регион.",155000
+6,senior,devops,rostov,office,mid_product,not_specified,2025-01-12,"Ищем senior devops в команду. Стек: K8s, Docker, Ansible. Опыт от 6.1+ лет.",370000
+4,middle,mobile,moscow,hybrid,bigtech,not_specified,2025-05-12,"Открыта позиция middle mobile. Технологии: Flutter, Dart. Формат: гибрид.",550000
+5,senior,qa,moscow,office,bigtech,not_specified,2025-09-30,"bigtech приглашает qa. Требования: Postman, SQL, опыт 4.7+ лет.",300000
+6,senior,frontend,moscow,office,NA,not_specified,2025-06-08,"enterprise приглашает frontend. Требования: Next.js, Tailwind, опыт 5.9+ лет.",355000
+2,middle,frontend,moscow,hybrid,mid_product,not_specified,2025-12-16,"Ищем middle frontend в команду. Стек: Angular, RxJS. Опыт от 2.0+ лет.",305000
+1,junior,frontend,moscow,hybrid,mid_product,not_specified,2025-06-10,"mid_product приглашает frontend. Требования: React, TypeScript, опыт 1.4+ лет.",120000
+2,junior,frontend,nizhny_novgorod,remote,smb,not_specified,2025-05-18,"Вакансия frontend junior: Vue.js, Nuxt. Зарплата по результатам собеседования.",55000
+0,intern,backend,ekaterinburg,office,enterprise,not_specified,NA,"Требуется backend (intern). Go, gRPC, office формат. Регион.",45000
+4,senior,data_science,moscow,office,outsource,not_specified,2025-11-09,Ищем senior data_science в команду. Стек: scikit-learn. Опыт от 4.5+ лет.,385000
+2,middle,backend,moscow,hybrid,outsource,not_specified,2026-02-18,"Вакансия backend middle: Node.js, Express. Зарплата по результатам собеседования.",630000
+5,senior,backend,ekaterinburg,remote,enterprise,not_specified,2025-09-07,"Ищем senior backend в команду. Стек: Go, gRPC. Опыт от 5.1+ лет.",375000
+3,middle,frontend,nizhny_novgorod,remote,bigtech,not_specified,NA,"Открыта позиция middle frontend. Технологии: Angular, RxJS. Формат: удалёнка.",240000
+3,middle,backend,moscow,office,outsource,not_specified,NA,"Открыта позиция middle backend. Технологии: Java, Spring. Формат: офис.",285000
+4,middle,qa,moscow,NA,enterprise,higher_general,2025-10-16,"Открыта позиция middle qa. Технологии: Python, Pytest, Selenium. Формат: офис.",195000
+2,middle,backend,novosibirsk,NA,NA,not_specified,2026-06-01,"Ищем middle backend в команду. Стек: Python, Django. Опыт от 2.1+ лет.",180000
+3,middle,qa,spb,office,NA,not_specified,2025-08-31,"Ищем middle qa в команду. Стек: Postman, SQL. Опыт от 2.8+ лет.",205000
+2,middle,backend,moscow,office,enterprise,NA,2025-02-27,"Требуется backend (middle). Node.js, Express, office формат. Москва.",340000
+4,middle,qa,moscow,office,enterprise,not_specified,2026-03-12,"Ищем middle qa в команду. Стек: Postman, SQL. Опыт от 3.5+ лет.",240000
+1,junior,frontend,spb,NA,enterprise,higher_general,2025-03-13,"Ищем junior frontend в команду. Стек: Angular, RxJS. Опыт от 0.9+ лет.",90000
+5,senior,frontend,ekaterinburg,remote,enterprise,not_specified,2026-01-22,"Вакансия frontend senior: React, TypeScript. Зарплата по результатам собеседования.",345000
+1,junior,data_science,samara,office,mid_product,NA,2026-01-01,"Вакансия data_science junior: TensorFlow, Pandas. Зарплата по результатам собеседования.",340000
+7,senior,data_science,samara,hybrid,smb,not_specified,2025-09-26,"smb приглашает data_science. Требования: TensorFlow, Pandas, опыт 6.7+ лет.",305000
+8,lead,mobile,samara,office,bigtech,not_specified,2025-08-15,"bigtech приглашает mobile. Требования: Kotlin, Android, опыт 8.2+ лет.",475000
+7,senior,data_science,kazan,office,outsource,not_specified,2026-04-02,"Требуется data_science (senior). Python, PyTorch, office формат. Регион.",285000
+7,senior,data_science,kazan,office,enterprise,higher_general,2025-11-03,"Требуется data_science (senior). SQL, Spark, office формат. Регион.",390000
+NA,middle,devops,novosibirsk,office,NA,not_specified,2025-10-16,"Открыта позиция middle devops. Технологии: Linux, Bash. Формат: офис.",235000
+2,middle,qa,nizhny_novgorod,NA,bigtech,higher_general,2025-07-10,"bigtech приглашает qa. Требования: Postman, SQL, опыт 2.1+ лет.",165000
+3,middle,data_science,moscow,NA,bigtech,not_specified,2026-04-05,"Ищем middle data_science в команду. Стек: Python, PyTorch. Опыт от 3.4+ лет.",1095000
+2,middle,devops,moscow,NA,smb,not_specified,2026-05-16,"Вакансия devops middle: Linux, Bash. Зарплата по результатам собеседования.",195000
+8,senior,frontend,spb,office,NA,not_specified,2025-03-24,"Вакансия frontend senior: Vue.js, Nuxt. Зарплата по результатам собеседования.",295000
+3,middle,data_science,rostov,office,smb,NA,2026-02-02,Открыта позиция middle data_science. Технологии: scikit-learn. Формат: офис.,670000
+1,junior,frontend,moscow,office,bigtech,not_specified,2025-11-30,"Ищем junior frontend в команду. Стек: Vue.js, Nuxt. Опыт от 1.1+ лет.",140000
+5,senior,backend,novosibirsk,NA,NA,not_specified,NA,"Вакансия backend senior: Node.js, Express. Зарплата по результатам собеседования.",325000
+6,senior,backend,rostov,office,mid_product,not_specified,2025-07-20,"Ищем senior backend в команду. Стек: C#, .NET. Опыт от 6.0+ лет.",340000
+5,senior,qa,novosibirsk,office,mid_product,not_specified,2025-01-26,"Открыта позиция senior qa. Технологии: Cypress, JS. Формат: офис.",225000
+4,senior,backend,spb,remote,outsource,not_specified,2026-02-10,"Открыта позиция senior backend. Технологии: Node.js, Express. Формат: удалёнка.",1115000
+2,middle,mobile,moscow,NA,mid_product,not_specified,2025-10-10,Вакансия mobile middle: React Native. Зарплата по результатам собеседования.,1490000
+10,lead,backend,moscow,NA,mid_product,higher_general,2025-02-18,"Вакансия backend lead: Java, Spring. Зарплата по результатам собеседования.",525000
+2,middle,data_science,spb,office,mid_product,higher_general,2026-06-13,Открыта позиция middle data_science. Технологии: scikit-learn. Формат: офис.,270000
+2,middle,frontend,kazan,hybrid,mid_product,not_specified,NA,"mid_product приглашает frontend. Требования: Next.js, Tailwind, опыт 1.8+ лет.",195000
+7,senior,devops,samara,office,enterprise,NA,2025-11-20,"Ищем senior devops в команду. Стек: Terraform, AWS. Опыт от 6.9+ лет.",450000
+NA,middle,frontend,moscow,office,mid_product,not_specified,2025-02-10,"Требуется frontend (middle). Angular, RxJS, office формат. Москва.",305000
+4,middle,qa,moscow,remote,mid_product,NA,2025-03-25,"Вакансия qa middle: Java, JUnit. Зарплата по результатам собеседования.",220000
+3,middle,devops,nizhny_novgorod,remote,NA,NA,2025-08-23,"Открыта позиция middle devops. Технологии: K8s, Docker, Ansible. Формат: удалёнка.",170000
+4,senior,frontend,kazan,remote,enterprise,not_specified,2026-02-24,"Открыта позиция senior frontend. Технологии: Angular, RxJS. Формат: удалёнка.",350000
+NA,middle,backend,nizhny_novgorod,remote,mid_product,not_specified,2025-02-10,"Требуется backend (middle). Go, gRPC, remote формат. Регион.",205000
+NA,intern,frontend,spb,office,mid_product,not_specified,2025-07-21,"Требуется frontend (intern). Next.js, Tailwind, office формат. Санкт-Петербург.",45000
+3,middle,qa,moscow,remote,mid_product,not_specified,2026-03-16,"Ищем middle qa в команду. Стек: Cypress, JS. Опыт от 3.0+ лет.",205000
+1,junior,backend,rostov,office,NA,not_specified,2025-12-29,"Требуется backend (junior). Go, gRPC, office формат. Регион.",100000
+NA,middle,frontend,moscow,hybrid,mid_product,higher_general,2025-05-04,"Вакансия frontend middle: React, TypeScript. Зарплата по результатам собеседования.",295000
+2,middle,data_science,novosibirsk,remote,smb,not_specified,2025-03-09,"Открыта позиция middle data_science. Технологии: Python, PyTorch. Формат: удалёнка.",125000
+4,middle,frontend,moscow,office,enterprise,not_specified,NA,"Требуется frontend (middle). Angular, RxJS, office формат. Москва.",275000
+3,middle,backend,moscow,NA,smb,not_specified,NA,"Вакансия backend middle: Python, Django. Зарплата по результатам собеседования.",255000
+6,senior,backend,ekaterinburg,remote,enterprise,not_specified,2026-06-04,"Открыта позиция senior backend. Технологии: Node.js, Express. Формат: удалёнка.",300000
+NA,middle,frontend,moscow,remote,smb,not_specified,2025-07-03,"Ищем middle frontend в команду. Стек: Next.js, Tailwind. Опыт от 2.8+ лет.",210000
+8,senior,data_science,moscow,office,mid_product,not_specified,2025-08-16,"Вакансия data_science senior: TensorFlow, Pandas. Зарплата по результатам собеседования.",460000
+8,senior,backend,moscow,NA,mid_product,NA,2025-12-31,"Ищем senior backend в команду. Стек: Go, gRPC. Опыт от 7.5+ лет.",470000
+0,intern,backend,ekaterinburg,office,enterprise,not_specified,2025-01-13,"Требуется backend (intern). C#, .NET, office формат. Регион.",200000
+2,middle,frontend,nizhny_novgorod,office,mid_product,NA,2025-10-13,"Вакансия frontend middle: React, TypeScript. Зарплата по результатам собеседования.",185000
+4,middle,mobile,samara,NA,enterprise,higher_tech,2025-01-01,"Открыта позиция middle mobile. Технологии: Flutter, Dart. Формат: удалёнка.",315000
+4,senior,backend,samara,remote,outsource,not_specified,2026-01-19,"Вакансия backend senior: Node.js, Express. Зарплата по результатам собеседования.",370000
+1,junior,frontend,nizhny_novgorod,remote,smb,higher_tech,2026-06-12,"Ищем junior frontend в команду. Стек: Vue.js, Nuxt. Опыт от 1.0+ лет.",50000
+5,senior,frontend,kazan,office,bigtech,higher_tech,2025-08-03,"Вакансия frontend senior: Vue.js, Nuxt. Зарплата по результатам собеседования.",1015000
+2,middle,backend,ekaterinburg,office,mid_product,higher_general,2025-11-09,"Ищем middle backend в команду. Стек: Java, Spring. Опыт от 2.0+ лет.",200000
+6,senior,devops,spb,NA,outsource,not_specified,2025-02-22,"outsource приглашает devops. Требования: Linux, Bash, опыт 6.1+ лет.",265000
+6,senior,backend,moscow,office,mid_product,not_specified,2025-03-16,"mid_product приглашает backend. Требования: Java, Spring, опыт 6.5+ лет.",480000
+1,junior,frontend,moscow,remote,outsource,not_specified,2026-01-25,"outsource приглашает frontend. Требования: React, TypeScript, опыт 1.4+ лет.",75000
+NA,middle,devops,moscow,hybrid,NA,not_specified,2025-05-21,"Ищем middle devops в команду. Стек: CI/CD, GitLab. Опыт от 2.3+ лет.",485000
+8,senior,frontend,kazan,office,bigtech,higher_tech,2025-06-24,"Открыта позиция senior frontend. Технологии: Angular, RxJS. Формат: офис.",395000
+2,middle,devops,rostov,remote,outsource,not_specified,2026-06-17,"Вакансия devops middle: Linux, Bash. Зарплата по результатам собеседования.",195000
+11,lead,qa,moscow,hybrid,mid_product,not_specified,2025-08-15,"Ищем lead qa в команду. Стек: Cypress, JS. Опыт от 11.3+ лет.",345000
+NA,senior,backend,spb,office,outsource,not_specified,NA,"outsource приглашает backend. Требования: Java, Spring, опыт 6.6+ лет.",315000
+2,middle,qa,moscow,remote,NA,not_specified,2026-05-03,"Ищем middle qa в команду. Стек: Java, JUnit. Опыт от 2.3+ лет.",220000
+2,middle,data_science,moscow,office,bigtech,higher_general,2025-02-22,"Открыта позиция middle data_science. Технологии: TensorFlow, Pandas. Формат: офис.",455000
+2,middle,frontend,moscow,office,bigtech,not_specified,2026-06-20,"Вакансия frontend middle: React, TypeScript. Зарплата по результатам собеседования.",500000
+1,junior,data_science,spb,office,outsource,not_specified,NA,"Требуется data_science (junior). Python, PyTorch, office формат. Санкт-Петербург.",110000
+7,senior,devops,moscow,office,enterprise,higher_tech,2025-01-12,"Вакансия devops senior: Linux, Bash. Зарплата по результатам собеседования.",380000
+3,middle,qa,ekaterinburg,remote,mid_product,not_specified,2026-05-19,"Открыта позиция middle qa. Технологии: Cypress, JS. Формат: удалёнка.",140000
+3,middle,frontend,moscow,office,enterprise,NA,2025-04-14,"Открыта позиция middle frontend. Технологии: React, TypeScript. Формат: офис.",290000
+3,middle,frontend,rostov,office,NA,not_specified,NA,"Ищем middle frontend в команду. Стек: Vue.js, Nuxt. Опыт от 3.3+ лет.",200000
+6,senior,qa,novosibirsk,remote,bigtech,not_specified,2025-02-18,"bigtech приглашает qa. Требования: Postman, SQL, опыт 5.6+ лет.",175000
+8,senior,frontend,kazan,remote,bigtech,not_specified,2025-12-27,"Ищем senior frontend в команду. Стек: Angular, RxJS. Опыт от 7.7+ лет.",400000
+2,middle,mobile,moscow,NA,mid_product,NA,2025-10-29,"Вакансия mobile middle: Kotlin, Android. Зарплата по результатам собеседования.",380000
+4,middle,backend,moscow,hybrid,bigtech,not_specified,2026-06-07,"bigtech приглашает backend. Требования: Node.js, Express, опыт 3.5+ лет.",525000
+NA,junior,mobile,nizhny_novgorod,NA,smb,not_specified,2025-01-19,"Требуется mobile (junior). Flutter, Dart, hybrid формат. Регион.",80000
+1,junior,mobile,ekaterinburg,NA,smb,NA,NA,"Открыта позиция junior mobile. Технологии: Swift, iOS. Формат: удалёнка.",65000
+8,senior,data_science,moscow,remote,enterprise,not_specified,2025-02-13,"Открыта позиция senior data_science. Технологии: Python, PyTorch. Формат: удалёнка.",505000
+2,middle,backend,kazan,office,enterprise,not_specified,2025-11-18,"Открыта позиция middle backend. Технологии: Go, gRPC. Формат: офис.",260000
+4,middle,backend,nizhny_novgorod,office,bigtech,not_specified,2025-11-23,"Вакансия backend middle: Java, Spring. Зарплата по результатам собеседования.",295000
+NA,senior,frontend,novosibirsk,office,smb,not_specified,2025-04-26,"smb приглашает frontend. Требования: React, TypeScript, опыт 7.2+ лет.",250000
+2,middle,qa,ekaterinburg,remote,NA,not_specified,2025-07-12,"Требуется qa (middle). Python, Pytest, Selenium, remote формат. Регион.",115000
+2,middle,qa,spb,office,NA,NA,2026-02-07,"outsource приглашает qa. Требования: Python, Pytest, Selenium, опыт 2.3+ лет.",160000
+8,senior,frontend,rostov,remote,mid_product,not_specified,2026-01-03,"mid_product приглашает frontend. Требования: Angular, RxJS, опыт 7.6+ лет.",205000
+4,middle,qa,moscow,office,outsource,not_specified,NA,"Требуется qa (middle). Cypress, JS, office формат. Москва.",500000
+2,middle,devops,novosibirsk,office,NA,not_specified,2025-06-30,"Ищем middle devops в команду. Стек: Terraform, AWS. Опыт от 2.2+ лет.",215000
+NA,middle,backend,samara,office,bigtech,NA,2025-11-13,"Вакансия backend middle: Node.js, Express. Зарплата по результатам собеседования.",320000
+1,junior,data_science,moscow,remote,enterprise,NA,2026-06-26,"Открыта позиция junior data_science. Технологии: TensorFlow, Pandas. Формат: удалёнка.",155000
+8,senior,devops,moscow,hybrid,enterprise,not_specified,2026-05-19,"Открыта позиция senior devops. Технологии: Terraform, AWS. Формат: гибрид.",755000
+NA,junior,frontend,moscow,NA,mid_product,not_specified,2026-04-25,"Ищем junior frontend в команду. Стек: Vue.js, Nuxt. Опыт от 0.8+ лет.",90000
+7,senior,frontend,nizhny_novgorod,remote,bigtech,not_specified,NA,"Требуется frontend (senior). React, TypeScript, remote формат. Регион.",350000
+7,senior,qa,spb,NA,smb,NA,2026-04-22,"Открыта позиция senior qa. Технологии: Python, Pytest, Selenium. Формат: удалёнка.",190000
+3,middle,backend,moscow,NA,bigtech,not_specified,2025-07-11,"Ищем middle backend в команду. Стек: Java, Spring. Опыт от 2.6+ лет.",375000
+1,junior,frontend,ekaterinburg,office,outsource,not_specified,2025-11-11,"Вакансия frontend junior: React, TypeScript. Зарплата по результатам собеседования.",60000
+2,middle,devops,ekaterinburg,office,mid_product,not_specified,2025-08-28,"Вакансия devops middle: Linux, Bash. Зарплата по результатам собеседования.",230000
+2,middle,mobile,novosibirsk,remote,outsource,not_specified,2026-06-03,"Вакансия mobile middle: Swift, iOS. Зарплата по результатам собеседования.",220000
+8,lead,data_science,ekaterinburg,office,enterprise,higher_general,2025-11-27,"Вакансия data_science lead: Python, PyTorch. Зарплата по результатам собеседования.",550000
+5,senior,frontend,spb,office,NA,not_specified,2025-07-16,"Требуется frontend (senior). Angular, RxJS, office формат. Санкт-Петербург.",280000
+4,middle,backend,nizhny_novgorod,NA,NA,not_specified,2025-05-08,"outsource приглашает backend. Требования: C#, .NET, опыт 3.5+ лет.",180000
+2,middle,backend,spb,office,smb,higher_tech,2026-04-19,"Ищем middle backend в команду. Стек: Node.js, Express. Опыт от 1.9+ лет.",265000
+3,middle,backend,moscow,remote,mid_product,not_specified,2025-06-15,"Вакансия backend middle: Python, Django. Зарплата по результатам собеседования.",285000
+1,junior,qa,novosibirsk,remote,bigtech,not_specified,2025-11-05,"Вакансия qa junior: Java, JUnit. Зарплата по результатам собеседования.",85000
+2,middle,frontend,spb,office,mid_product,not_specified,2025-09-15,"mid_product приглашает frontend. Требования: React, TypeScript, опыт 2.1+ лет.",220000
+1,junior,mobile,moscow,NA,NA,not_specified,2025-01-25,"smb приглашает mobile. Требования: Kotlin, Android, опыт 0.7+ лет.",390000
+3,middle,qa,rostov,office,mid_product,not_specified,2025-02-15,"Ищем middle qa в команду. Стек: Java, JUnit. Опыт от 3.3+ лет.",155000
+7,senior,frontend,moscow,hybrid,outsource,higher_tech,2025-09-05,"Ищем senior frontend в команду. Стек: Next.js, Tailwind. Опыт от 7.4+ лет.",360000
+2,middle,frontend,novosibirsk,remote,enterprise,not_specified,2026-03-12,"Ищем middle frontend в команду. Стек: Angular, RxJS. Опыт от 1.6+ лет.",245000
+3,middle,backend,moscow,remote,bigtech,not_specified,2025-10-31,"Требуется backend (middle). Python, Django, remote формат. Москва.",1325000
+7,senior,data_science,novosibirsk,remote,NA,higher_general,2026-05-09,"Ищем senior data_science в команду. Стек: TensorFlow, Pandas. Опыт от 7.0+ лет.",300000
+3,middle,mobile,rostov,remote,enterprise,not_specified,2026-03-21,"Вакансия mobile middle: Swift, iOS. Зарплата по результатам собеседования.",275000
+6,senior,qa,samara,remote,NA,higher_general,2025-03-04,"Вакансия qa senior: Java, JUnit. Зарплата по результатам собеседования.",215000
+2,middle,qa,nizhny_novgorod,NA,mid_product,not_specified,2025-05-01,"Открыта позиция middle qa. Технологии: Python, Pytest, Selenium. Формат: офис.",160000
+1,junior,backend,moscow,NA,mid_product,not_specified,NA,"mid_product приглашает backend. Требования: Java, Spring, опыт 1.2+ лет.",125000
+4,middle,mobile,samara,office,NA,not_specified,2026-01-24,"Требуется mobile (middle). React Native, office формат. Регион.",280000
+4,middle,frontend,moscow,office,NA,not_specified,2025-02-08,"Ищем middle frontend в команду. Стек: Vue.js, Nuxt. Опыт от 3.6+ лет.",340000
+3,middle,data_science,samara,NA,outsource,not_specified,NA,"Открыта позиция middle data_science. Технологии: SQL, Spark. Формат: офис.",180000
+0,intern,backend,samara,NA,outsource,not_specified,2025-08-23,"Вакансия backend intern: Python, Django. Зарплата по результатам собеседования.",40000
+2,middle,backend,moscow,NA,enterprise,NA,2025-05-27,"Вакансия backend middle: Node.js, Express. Зарплата по результатам собеседования.",335000
+2,middle,qa,spb,NA,mid_product,not_specified,2025-12-20,"Открыта позиция middle qa. Технологии: Postman, SQL. Формат: удалёнка.",155000
+2,middle,data_science,kazan,office,bigtech,not_specified,2025-03-12,"Открыта позиция middle data_science. Технологии: Python, PyTorch. Формат: офис.",275000
+NA,middle,devops,samara,remote,NA,not_specified,2025-09-08,"Вакансия devops middle: K8s, Docker, Ansible. Зарплата по результатам собеседования.",150000
+3,middle,qa,kazan,remote,enterprise,higher_tech,NA,"Вакансия qa middle: Python, Pytest, Selenium. Зарплата по результатам собеседования.",155000
+3,middle,backend,rostov,office,NA,not_specified,2025-05-19,"Ищем middle backend в команду. Стек: C#, .NET. Опыт от 2.7+ лет.",235000
+6,senior,data_science,moscow,office,bigtech,not_specified,2025-11-29,"bigtech приглашает data_science. Требования: Python, PyTorch, опыт 6.2+ лет.",1915000
+2,middle,mobile,moscow,office,enterprise,not_specified,2026-05-22,"enterprise приглашает mobile. Требования: React Native, опыт 1.7+ лет.",440000
+2,middle,backend,nizhny_novgorod,remote,NA,not_specified,2026-05-19,"enterprise приглашает backend. Требования: Java, Spring, опыт 2.4+ лет.",475000
+2,middle,devops,samara,office,outsource,not_specified,2026-04-30,"outsource приглашает devops. Требования: CI/CD, GitLab, опыт 1.9+ лет.",190000
+1,junior,devops,moscow,hybrid,outsource,not_specified,2026-05-05,"Открыта позиция junior devops. Технологии: K8s, Docker, Ansible. Формат: гибрид.",175000
+1,junior,qa,spb,office,outsource,not_specified,2025-02-09,"Вакансия qa junior: Python, Pytest, Selenium. Зарплата по результатам собеседования.",80000
+4,senior,data_science,ekaterinburg,office,outsource,not_specified,2025-11-14,Ищем senior data_science в команду. Стек: scikit-learn. Опыт от 4.5+ лет.,185000
+2,middle,backend,moscow,office,smb,not_specified,2025-06-05,"Требуется backend (middle). C#, .NET, office формат. Москва.",205000
+NA,middle,backend,rostov,remote,bigtech,NA,NA,"Ищем middle backend в команду. Стек: Node.js, Express. Опыт от 2.7+ лет.",305000
+4,middle,frontend,spb,remote,outsource,not_specified,2025-08-05,"Вакансия frontend middle: Next.js, Tailwind. Зарплата по результатам собеседования.",220000
+7,senior,frontend,spb,remote,mid_product,higher_tech,NA,"Открыта позиция senior frontend. Технологии: React, TypeScript. Формат: удалёнка.",505000
+0,intern,backend,moscow,NA,outsource,not_specified,2025-06-15,"Ищем intern backend в команду. Стек: Python, Django. Опыт от 0.3+ лет.",55000
+1,junior,devops,kazan,remote,mid_product,not_specified,2026-06-25,"Вакансия devops junior: CI/CD, GitLab. Зарплата по результатам собеседования.",125000
+4,middle,frontend,moscow,hybrid,enterprise,not_specified,2026-06-24,"Вакансия frontend middle: React, TypeScript. Зарплата по результатам собеседования.",410000
+3,middle,frontend,nizhny_novgorod,NA,outsource,not_specified,NA,"Открыта позиция middle frontend. Технологии: Angular, RxJS. Формат: удалёнка.",180000
+1,junior,qa,novosibirsk,office,smb,NA,2025-09-17,"smb приглашает qa. Требования: Python, Pytest, Selenium, опыт 1.2+ лет.",55000
+2,middle,backend,spb,remote,smb,higher_tech,2025-10-23,"Вакансия backend middle: Node.js, Express. Зарплата по результатам собеседования.",205000
+4,senior,qa,nizhny_novgorod,NA,mid_product,not_specified,2025-05-30,"Открыта позиция senior qa. Технологии: Cypress, JS. Формат: удалёнка.",130000
+1,junior,frontend,nizhny_novgorod,remote,outsource,not_specified,2025-03-29,"Ищем junior frontend в команду. Стек: Next.js, Tailwind. Опыт от 0.7+ лет.",60000
+1,junior,mobile,samara,NA,mid_product,NA,2026-01-01,"mid_product приглашает mobile. Требования: React Native, опыт 1.3+ лет.",90000
+11,lead,backend,samara,office,outsource,not_specified,2025-12-24,"outsource приглашает backend. Требования: Python, Django, опыт 10.7+ лет.",345000
+2,middle,frontend,kazan,office,enterprise,NA,2025-04-20,"Открыта позиция middle frontend. Технологии: Next.js, Tailwind. Формат: офис.",185000
+1,junior,backend,moscow,office,enterprise,not_specified,2025-06-15,"Вакансия backend junior: Python, Django. Зарплата по результатам собеседования.",140000
+NA,senior,qa,moscow,office,NA,not_specified,2025-04-22,"Ищем senior qa в команду. Стек: Cypress, JS. Опыт от 6.5+ лет.",265000
+9,lead,frontend,spb,office,NA,NA,2026-02-03,"Открыта позиция lead frontend. Технологии: Vue.js, Nuxt. Формат: офис.",375000
+6,senior,mobile,moscow,remote,enterprise,not_specified,2026-03-04,"Вакансия mobile senior: Swift, iOS. Зарплата по результатам собеседования.",365000
+1,junior,qa,kazan,office,bigtech,not_specified,2025-07-07,"bigtech приглашает qa. Требования: Java, JUnit, опыт 1.0+ лет.",90000
+5,senior,mobile,samara,remote,enterprise,higher_general,2026-03-27,Вакансия mobile senior: React Native. Зарплата по результатам собеседования.,465000
+5,senior,backend,moscow,remote,smb,not_specified,2026-01-22,"smb приглашает backend. Требования: Go, gRPC, опыт 4.6+ лет.",475000
+5,senior,qa,samara,office,enterprise,NA,NA,"enterprise приглашает qa. Требования: Postman, SQL, опыт 4.9+ лет.",175000
+6,senior,backend,ekaterinburg,office,mid_product,not_specified,2025-02-27,"Вакансия backend senior: Python, Django. Зарплата по результатам собеседования.",305000
+3,middle,backend,moscow,office,NA,NA,2026-04-18,"Требуется backend (middle). C#, .NET, office формат. Москва.",345000
+3,middle,devops,ekaterinburg,remote,NA,not_specified,2026-04-12,"Ищем middle devops в команду. Стек: Linux, Bash. Опыт от 2.7+ лет.",190000
+NA,senior,frontend,moscow,hybrid,mid_product,not_specified,2026-01-02,"mid_product приглашает frontend. Требования: React, TypeScript, опыт 7.7+ лет.",480000
+3,middle,backend,moscow,office,bigtech,not_specified,2025-11-17,"Требуется backend (middle). Go, gRPC, office формат. Москва.",385000
+NA,senior,frontend,moscow,remote,outsource,not_specified,NA,"Требуется frontend (senior). Next.js, Tailwind, remote формат. Москва.",295000
+5,senior,frontend,spb,NA,bigtech,not_specified,2025-04-14,"bigtech приглашает frontend. Требования: Angular, RxJS, опыт 5.2+ лет.",355000
+3,middle,qa,moscow,NA,enterprise,not_specified,2025-08-06,"Вакансия qa middle: Python, Pytest, Selenium. Зарплата по результатам собеседования.",190000
+4,middle,frontend,rostov,office,mid_product,not_specified,2025-07-29,"Ищем middle frontend в команду. Стек: Next.js, Tailwind. Опыт от 3.5+ лет.",185000
+1,junior,mobile,moscow,office,smb,NA,2025-10-14,Открыта позиция junior mobile. Технологии: React Native. Формат: офис.,105000
+3,middle,frontend,moscow,remote,mid_product,not_specified,2025-01-05,"Требуется frontend (middle). Angular, RxJS, remote формат. Москва.",305000
+NA,senior,mobile,spb,remote,outsource,not_specified,2026-03-10,"outsource приглашает mobile. Требования: React Native, опыт 7.4+ лет.",360000
+2,middle,mobile,samara,office,enterprise,higher_general,2026-04-14,"Открыта позиция middle mobile. Технологии: Swift, iOS. Формат: офис.",345000
+2,middle,frontend,novosibirsk,office,enterprise,not_specified,2025-03-11,"Вакансия frontend middle: React, TypeScript. Зарплата по результатам собеседования.",215000
+7,senior,frontend,ekaterinburg,office,smb,not_specified,2025-12-11,"Ищем senior frontend в команду. Стек: Next.js, Tailwind. Опыт от 6.6+ лет.",215000
+2,middle,backend,kazan,office,bigtech,higher_tech,2025-07-16,"Вакансия backend middle: Java, Spring. Зарплата по результатам собеседования.",325000
+5,senior,qa,moscow,NA,mid_product,not_specified,2026-03-21,"mid_product приглашает qa. Требования: Python, Pytest, Selenium, опыт 4.7+ лет.",185000
+NA,middle,mobile,nizhny_novgorod,office,mid_product,not_specified,2026-03-15,"Открыта позиция middle mobile. Технологии: Swift, iOS. Формат: офис.",290000
+3,middle,qa,rostov,remote,enterprise,not_specified,2026-06-13,"Требуется qa (middle). Java, JUnit, remote формат. Регион.",130000
+5,senior,backend,moscow,office,smb,not_specified,NA,"Открыта позиция senior backend. Технологии: Go, gRPC. Формат: офис.",310000
+NA,middle,frontend,ekaterinburg,remote,bigtech,not_specified,2026-06-16,"Вакансия frontend middle: Vue.js, Nuxt. Зарплата по результатам собеседования.",245000
+9,lead,qa,nizhny_novgorod,office,outsource,higher_tech,2025-01-19,"Вакансия qa lead: Postman, SQL. Зарплата по результатам собеседования.",170000
+2,middle,backend,nizhny_novgorod,remote,NA,not_specified,2025-11-23,"Требуется backend (middle). Go, gRPC, remote формат. Регион.",220000
+NA,middle,backend,spb,office,mid_product,not_specified,NA,"mid_product приглашает backend. Требования: Node.js, Express, опыт 2.5+ лет.",225000
+1,junior,frontend,ekaterinburg,office,mid_product,not_specified,2025-11-09,"Вакансия frontend junior: Next.js, Tailwind. Зарплата по результатам собеседования.",75000
+4,middle,backend,moscow,office,NA,not_specified,2026-03-29,"Открыта позиция middle backend. Технологии: Python, Django. Формат: офис.",300000
+3,middle,frontend,novosibirsk,office,enterprise,NA,2026-01-11,"Вакансия frontend middle: Angular, RxJS. Зарплата по результатам собеседования.",240000
+7,senior,data_science,novosibirsk,office,enterprise,not_specified,NA,"Вакансия data_science senior: TensorFlow, Pandas. Зарплата по результатам собеседования.",680000
+3,middle,mobile,rostov,office,enterprise,not_specified,2025-04-23,"Ищем middle mobile в команду. Стек: Flutter, Dart. Опыт от 3.0+ лет.",350000
+1,junior,backend,novosibirsk,remote,mid_product,not_specified,NA,"Требуется backend (junior). Java, Spring, remote формат. Регион.",95000
+NA,junior,data_science,spb,remote,bigtech,higher_tech,2026-06-07,"Открыта позиция junior data_science. Технологии: Python, PyTorch. Формат: удалёнка.",145000
+4,middle,mobile,moscow,office,enterprise,not_specified,2025-11-27,Ищем middle mobile в команду. Стек: React Native. Опыт от 3.8+ лет.,400000
+5,senior,backend,rostov,office,smb,not_specified,2026-04-19,"Вакансия backend senior: Go, gRPC. Зарплата по результатам собеседования.",235000
+3,middle,devops,kazan,office,enterprise,not_specified,2025-01-17,"Открыта позиция middle devops. Технологии: CI/CD, GitLab. Формат: офис.",285000
+3,middle,frontend,moscow,office,bigtech,NA,2025-03-12,"bigtech приглашает frontend. Требования: React, TypeScript, опыт 3.1+ лет.",330000
+3,middle,frontend,moscow,office,enterprise,not_specified,2025-03-05,"Вакансия frontend middle: React, TypeScript. Зарплата по результатам собеседования.",280000
+2,middle,mobile,ekaterinburg,NA,enterprise,NA,2026-04-16,"Открыта позиция middle mobile. Технологии: Swift, iOS. Формат: офис.",310000
+9,lead,backend,moscow,office,enterprise,not_specified,NA,"enterprise приглашает backend. Требования: Java, Spring, опыт 8.8+ лет.",820000
+7,senior,qa,spb,office,enterprise,not_specified,2025-05-15,"Вакансия qa senior: Cypress, JS. Зарплата по результатам собеседования.",220000
+NA,middle,backend,nizhny_novgorod,hybrid,mid_product,not_specified,2025-07-06,"Требуется backend (middle). Node.js, Express, hybrid формат. Регион.",230000
+3,middle,frontend,rostov,NA,outsource,NA,2025-01-04,"Требуется frontend (middle). Angular, RxJS, remote формат. Регион.",165000
+NA,middle,frontend,spb,remote,mid_product,higher_general,2026-01-21,"mid_product приглашает frontend. Требования: Vue.js, Nuxt, опыт 3.5+ лет.",275000
+1,junior,backend,novosibirsk,office,mid_product,not_specified,2025-11-12,"mid_product приглашает backend. Требования: Node.js, Express, опыт 1.2+ лет.",105000
+2,middle,devops,rostov,remote,enterprise,not_specified,2026-02-25,"Открыта позиция middle devops. Технологии: Terraform, AWS. Формат: удалёнка.",275000
+NA,senior,qa,moscow,office,outsource,not_specified,2025-07-20,"Ищем senior qa в команду. Стек: Java, JUnit. Опыт от 7.7+ лет.",195000
+0,intern,backend,samara,NA,mid_product,not_specified,NA,"Открыта позиция intern backend. Технологии: Python, Django. Формат: офис.",40000
+4,middle,data_science,moscow,office,bigtech,not_specified,NA,"bigtech приглашает data_science. Требования: scikit-learn, опыт 3.6+ лет.",385000
+7,senior,mobile,rostov,office,smb,not_specified,2025-05-28,"Вакансия mobile senior: Swift, iOS. Зарплата по результатам собеседования.",265000
+6,senior,backend,moscow,office,smb,NA,2025-12-03,"Открыта позиция senior backend. Технологии: C#, .NET. Формат: офис.",405000
+NA,junior,frontend,moscow,remote,outsource,not_specified,NA,"Вакансия frontend junior: Angular, RxJS. Зарплата по результатам собеседования.",285000
+4,senior,backend,moscow,office,enterprise,not_specified,2026-05-23,"Ищем senior backend в команду. Стек: Go, gRPC. Опыт от 4.4+ лет.",700000
+2,middle,frontend,moscow,hybrid,bigtech,not_specified,2025-02-23,"Вакансия frontend middle: Vue.js, Nuxt. Зарплата по результатам собеседования.",405000
+4,middle,data_science,moscow,office,mid_product,not_specified,2025-05-11,Вакансия data_science middle: scikit-learn. Зарплата по результатам собеседования.,350000
+2,junior,qa,novosibirsk,NA,NA,not_specified,2025-06-20,"Открыта позиция junior qa. Технологии: Python, Pytest, Selenium. Формат: офис.",80000
+2,middle,backend,spb,office,mid_product,not_specified,2025-05-17,"Вакансия backend middle: Node.js, Express. Зарплата по результатам собеседования.",380000
+14,lead,data_science,spb,office,bigtech,NA,2026-03-03,"bigtech приглашает data_science. Требования: SQL, Spark, опыт 14.5+ лет.",560000
+2,middle,frontend,samara,remote,outsource,not_specified,2026-02-25,"Открыта позиция middle frontend. Технологии: Vue.js, Nuxt. Формат: удалёнка.",150000
+1,junior,frontend,samara,remote,outsource,not_specified,2025-11-01,"Требуется frontend (junior). Angular, RxJS, remote формат. Регион.",70000
+6,senior,frontend,moscow,hybrid,bigtech,not_specified,NA,"Вакансия frontend senior: Vue.js, Nuxt. Зарплата по результатам собеседования.",530000
+14,lead,qa,spb,office,enterprise,not_specified,2025-12-24,"Вакансия qa lead: Java, JUnit. Зарплата по результатам собеседования.",270000
+3,middle,qa,novosibirsk,remote,bigtech,not_specified,2026-01-16,"Вакансия qa middle: Java, JUnit. Зарплата по результатам собеседования.",240000
+1,junior,frontend,spb,office,NA,not_specified,2026-05-28,"Требуется frontend (junior). Angular, RxJS, office формат. Санкт-Петербург.",90000
+NA,middle,data_science,moscow,office,outsource,not_specified,2026-05-23,"Вакансия data_science middle: Python, PyTorch. Зарплата по результатам собеседования.",240000
+3,middle,backend,samara,remote,bigtech,not_specified,NA,"Требуется backend (middle). Go, gRPC, remote формат. Регион.",310000
+8,senior,qa,ekaterinburg,office,enterprise,not_specified,2025-12-23,"Ищем senior qa в команду. Стек: Java, JUnit. Опыт от 7.5+ лет.",205000
+0,junior,data_science,nizhny_novgorod,remote,NA,NA,2026-06-25,"Вакансия data_science junior: Python, PyTorch. Зарплата по результатам собеседования.",80000
+4,middle,backend,ekaterinburg,NA,enterprise,higher_tech,2025-12-30,"Требуется backend (middle). Go, gRPC, office формат. Регион.",215000
+NA,junior,frontend,moscow,office,mid_product,higher_tech,NA,"Ищем junior frontend в команду. Стек: React, TypeScript. Опыт от 1.4+ лет.",100000
+3,middle,backend,ekaterinburg,office,enterprise,not_specified,NA,"Требуется backend (middle). Go, gRPC, office формат. Регион.",265000
+2,middle,frontend,novosibirsk,remote,bigtech,higher_general,2025-02-04,"bigtech приглашает frontend. Требования: Vue.js, Nuxt, опыт 2.1+ лет.",265000
+3,middle,frontend,spb,office,enterprise,not_specified,2026-05-11,"enterprise приглашает frontend. Требования: React, TypeScript, опыт 2.8+ лет.",330000
+1,junior,backend,novosibirsk,remote,outsource,not_specified,NA,"Требуется backend (junior). Java, Spring, remote формат. Регион.",85000
+4,senior,mobile,moscow,office,bigtech,higher_general,2025-06-20,"Открыта позиция senior mobile. Технологии: Swift, iOS. Формат: офис.",490000
+1,junior,mobile,moscow,office,mid_product,higher_tech,2025-06-28,Вакансия mobile junior: React Native. Зарплата по результатам собеседования.,140000
+2,middle,devops,nizhny_novgorod,hybrid,mid_product,higher_tech,NA,"Открыта позиция middle devops. Технологии: CI/CD, GitLab. Формат: гибрид.",230000
+NA,junior,backend,moscow,office,outsource,not_specified,2026-05-10,"Требуется backend (junior). C#, .NET, office формат. Москва.",115000
+3,middle,qa,rostov,NA,enterprise,NA,2026-03-16,"Вакансия qa middle: Java, JUnit. Зарплата по результатам собеседования.",200000
+8,senior,frontend,spb,hybrid,mid_product,not_specified,2025-06-26,"Требуется frontend (senior). React, TypeScript, hybrid формат. Санкт-Петербург.",350000
+2,middle,data_science,spb,remote,mid_product,not_specified,2025-08-24,"Открыта позиция middle data_science. Технологии: SQL, Spark. Формат: удалёнка.",275000
+1,junior,frontend,spb,remote,enterprise,not_specified,2025-12-18,"Открыта позиция junior frontend. Технологии: Vue.js, Nuxt. Формат: удалёнка.",95000
+NA,middle,qa,moscow,remote,NA,not_specified,2025-12-06,"Вакансия qa middle: Postman, SQL. Зарплата по результатам собеседования.",225000
+2,middle,qa,ekaterinburg,NA,outsource,not_specified,2025-04-11,"Открыта позиция middle qa. Технологии: Java, JUnit. Формат: офис.",115000
+NA,middle,backend,moscow,hybrid,enterprise,NA,2025-06-17,"Открыта позиция middle backend. Технологии: Go, gRPC. Формат: гибрид.",365000
+1,junior,frontend,samara,office,mid_product,not_specified,2025-06-02,"Ищем junior frontend в команду. Стек: React, TypeScript. Опыт от 1.4+ лет.",70000
+NA,middle,data_science,nizhny_novgorod,office,mid_product,not_specified,2026-04-26,"mid_product приглашает data_science. Требования: TensorFlow, Pandas, опыт 3.4+ лет.",205000
+4,middle,devops,spb,office,mid_product,NA,2026-05-06,"Требуется devops (middle). CI/CD, GitLab, office формат. Санкт-Петербург.",295000
+6,senior,devops,ekaterinburg,remote,bigtech,not_specified,2025-06-03,"Ищем senior devops в команду. Стек: Linux, Bash. Опыт от 5.5+ лет.",405000
+1,junior,backend,rostov,remote,mid_product,NA,2026-06-09,"Требуется backend (junior). Node.js, Express, remote формат. Регион.",90000
+NA,middle,devops,moscow,NA,mid_product,not_specified,2026-05-23,"Ищем middle devops в команду. Стек: Linux, Bash. Опыт от 1.8+ лет.",250000
+4,middle,devops,spb,remote,NA,not_specified,2025-07-25,"Вакансия devops middle: Terraform, AWS. Зарплата по результатам собеседования.",245000
+2,junior,data_science,moscow,office,NA,NA,2026-01-10,"Вакансия data_science junior: TensorFlow, Pandas. Зарплата по результатам собеседования.",185000
+2,middle,frontend,samara,office,outsource,NA,2026-01-02,"Ищем middle frontend в команду. Стек: Vue.js, Nuxt. Опыт от 2.2+ лет.",150000
+6,senior,frontend,ekaterinburg,remote,NA,NA,2025-04-21,"Вакансия frontend senior: Vue.js, Nuxt. Зарплата по результатам собеседования.",205000
+4,middle,backend,kazan,remote,NA,NA,NA,"Открыта позиция middle backend. Технологии: Python, Django. Формат: удалёнка.",180000
+1,junior,frontend,nizhny_novgorod,NA,enterprise,not_specified,2025-07-03,"Вакансия frontend junior: Angular, RxJS. Зарплата по результатам собеседования.",75000
+7,senior,data_science,moscow,remote,outsource,higher_general,2025-11-08,"outsource приглашает data_science. Требования: TensorFlow, Pandas, опыт 7.0+ лет.",345000
+NA,middle,qa,moscow,office,outsource,not_specified,2025-10-25,"Ищем middle qa в команду. Стек: Python, Pytest, Selenium. Опыт от 1.7+ лет.",185000
+7,senior,backend,novosibirsk,remote,mid_product,not_specified,2026-01-07,"mid_product приглашает backend. Требования: Go, gRPC, опыт 7.3+ лет.",305000
+3,middle,frontend,ekaterinburg,office,bigtech,not_specified,2025-03-20,"Вакансия frontend middle: Vue.js, Nuxt. Зарплата по результатам собеседования.",230000
+NA,middle,qa,moscow,office,enterprise,not_specified,2025-12-18,"enterprise приглашает qa. Требования: Python, Pytest, Selenium, опыт 3.4+ лет.",195000
+11,lead,frontend,moscow,office,enterprise,not_specified,2025-01-14,"Вакансия frontend lead: Next.js, Tailwind. Зарплата по результатам собеседования.",510000
+1,junior,backend,samara,office,mid_product,not_specified,NA,"Требуется backend (junior). C#, .NET, office формат. Регион.",100000
+2,middle,qa,spb,office,enterprise,not_specified,2026-06-12,"Ищем middle qa в команду. Стек: Postman, SQL. Опыт от 2.3+ лет.",215000
+2,middle,qa,samara,office,bigtech,not_specified,2026-03-15,"Вакансия qa middle: Python, Pytest, Selenium. Зарплата по результатам собеседования.",185000
+NA,senior,backend,nizhny_novgorod,office,mid_product,higher_general,2025-10-11,"Ищем senior backend в команду. Стек: Python, Django. Опыт от 5.4+ лет.",450000
+6,senior,devops,moscow,office,NA,not_specified,NA,"Открыта позиция senior devops. Технологии: Terraform, AWS. Формат: офис.",430000
+2,middle,devops,nizhny_novgorod,remote,outsource,not_specified,2025-03-12,"Требуется devops (middle). Linux, Bash, remote формат. Регион.",165000
+NA,senior,mobile,moscow,hybrid,NA,not_specified,2026-04-19,"Ищем senior mobile в команду. Стек: Swift, iOS. Опыт от 4.4+ лет.",535000
+2,middle,backend,moscow,hybrid,outsource,not_specified,2026-06-20,"Ищем middle backend в команду. Стек: Go, gRPC. Опыт от 1.5+ лет.",255000
+NA,middle,backend,moscow,office,outsource,not_specified,2026-06-27,"Требуется backend (middle). Python, Django, office формат. Москва.",250000
+2,middle,backend,moscow,remote,outsource,higher_general,2026-04-22,"Ищем middle backend в команду. Стек: C#, .NET. Опыт от 1.8+ лет.",280000
+3,middle,mobile,samara,office,NA,not_specified,2025-03-06,"Требуется mobile (middle). React Native, office формат. Регион.",280000
+0,intern,frontend,samara,office,NA,not_specified,2025-01-02,"Требуется frontend (intern). Vue.js, Nuxt, office формат. Регион.",35000
+3,middle,frontend,samara,office,outsource,NA,2025-07-17,"Требуется frontend (middle). Angular, RxJS, office формат. Регион.",145000
+NA,junior,backend,ekaterinburg,remote,enterprise,not_specified,2025-08-07,"Открыта позиция junior backend. Технологии: Java, Spring. Формат: удалёнка.",100000
+5,senior,backend,moscow,remote,smb,not_specified,NA,"Открыта позиция senior backend. Технологии: Go, gRPC. Формат: удалёнка.",410000
+NA,senior,backend,samara,remote,outsource,NA,2026-06-02,"Требуется backend (senior). Python, Django, remote формат. Регион.",225000
+5,senior,qa,moscow,office,bigtech,higher_general,NA,"Ищем senior qa в команду. Стек: Cypress, JS. Опыт от 5.2+ лет.",265000
+6,senior,frontend,novosibirsk,office,enterprise,not_specified,2025-08-03,"Требуется frontend (senior). Next.js, Tailwind, office формат. Регион.",190000
+1,junior,frontend,samara,office,NA,not_specified,2025-04-30,"Ищем junior frontend в команду. Стек: React, TypeScript. Опыт от 0.6+ лет.",80000
+4,senior,backend,spb,office,NA,NA,2025-12-07,"Требуется backend (senior). C#, .NET, office формат. Санкт-Петербург.",660000
+2,middle,data_science,novosibirsk,remote,enterprise,higher_general,2025-03-14,"Ищем middle data_science в команду. Стек: TensorFlow, Pandas. Опыт от 2.3+ лет.",255000
+0,intern,backend,ekaterinburg,office,mid_product,not_specified,2025-09-04,"Требуется backend (intern). Go, gRPC, office формат. Регион.",40000
+2,middle,mobile,moscow,NA,NA,not_specified,2025-09-30,Ищем middle mobile в команду. Стек: React Native. Опыт от 2.4+ лет.,310000
+4,middle,frontend,nizhny_novgorod,NA,outsource,not_specified,2026-02-12,"Ищем middle frontend в команду. Стек: React, TypeScript. Опыт от 3.5+ лет.",145000
+3,middle,backend,novosibirsk,office,NA,not_specified,NA,"Вакансия backend middle: Java, Spring. Зарплата по результатам собеседования.",255000
+3,middle,backend,spb,office,bigtech,not_specified,2025-10-13,"bigtech приглашает backend. Требования: Java, Spring, опыт 2.8+ лет.",440000
+3,middle,mobile,ekaterinburg,office,NA,not_specified,2026-04-02,"Открыта позиция middle mobile. Технологии: Flutter, Dart. Формат: офис.",230000
+NA,senior,qa,samara,remote,enterprise,not_specified,2026-05-24,"Открыта позиция senior qa. Технологии: Java, JUnit. Формат: удалёнка.",130000
+1,junior,data_science,moscow,office,outsource,not_specified,NA,"outsource приглашает data_science. Требования: TensorFlow, Pandas, опыт 1.0+ лет.",130000
+1,junior,data_science,ekaterinburg,office,outsource,higher_general,2025-09-28,"Открыта позиция junior data_science. Технологии: SQL, Spark. Формат: офис.",85000
+3,middle,backend,samara,remote,NA,not_specified,2026-06-10,"outsource приглашает backend. Требования: Python, Django, опыт 3.3+ лет.",230000
+1,junior,backend,ekaterinburg,NA,outsource,higher_general,2026-02-01,"Требуется backend (junior). Python, Django, remote формат. Регион.",70000
+NA,senior,devops,nizhny_novgorod,NA,NA,higher_general,2025-11-03,"Ищем senior devops в команду. Стек: CI/CD, GitLab. Опыт от 4.7+ лет.",435000
+NA,middle,qa,novosibirsk,NA,enterprise,not_specified,2026-03-14,"Открыта позиция middle qa. Технологии: Java, JUnit. Формат: офис.",200000
+1,junior,data_science,moscow,office,outsource,not_specified,2025-10-21,"Открыта позиция junior data_science. Технологии: TensorFlow, Pandas. Формат: офис.",115000
+3,middle,frontend,nizhny_novgorod,remote,bigtech,not_specified,2026-01-17,"Ищем middle frontend в команду. Стек: Angular, RxJS. Опыт от 2.7+ лет.",330000
+1,junior,frontend,moscow,office,outsource,NA,2025-06-29,"Требуется frontend (junior). Vue.js, Nuxt, office формат. Москва.",90000
+0,junior,qa,moscow,office,bigtech,not_specified,2026-06-14,"Ищем junior qa в команду. Стек: Postman, SQL. Опыт от 0.5+ лет.",145000
+3,middle,frontend,kazan,office,enterprise,NA,NA,"Открыта позиция middle frontend. Технологии: Next.js, Tailwind. Формат: офис.",215000
+7,senior,backend,samara,remote,smb,not_specified,2025-10-02,"Вакансия backend senior: Python, Django. Зарплата по результатам собеседования.",310000
+NA,middle,backend,novosibirsk,remote,bigtech,not_specified,NA,"Вакансия backend middle: C#, .NET. Зарплата по результатам собеседования.",235000
+8,senior,frontend,nizhny_novgorod,office,mid_product,NA,2025-09-15,"Открыта позиция senior frontend. Технологии: Angular, RxJS. Формат: офис.",355000
+5,senior,frontend,moscow,hybrid,bigtech,not_specified,2026-02-01,"Вакансия frontend senior: React, TypeScript. Зарплата по результатам собеседования.",1160000
+3,middle,data_science,moscow,hybrid,enterprise,higher_general,NA,"Требуется data_science (middle). scikit-learn, hybrid формат. Москва.",290000
+9,lead,mobile,spb,hybrid,enterprise,not_specified,NA,"Открыта позиция lead mobile. Технологии: Swift, iOS. Формат: гибрид.",685000
+5,senior,mobile,novosibirsk,office,enterprise,higher_tech,2025-10-11,Вакансия mobile senior: React Native. Зарплата по результатам собеседования.,385000
+8,senior,backend,kazan,office,smb,not_specified,2025-06-30,"Ищем senior backend в команду. Стек: Java, Spring. Опыт от 7.8+ лет.",250000
+6,senior,devops,moscow,office,NA,not_specified,2025-01-04,"Требуется devops (senior). CI/CD, GitLab, office формат. Москва.",360000
+4,middle,backend,spb,NA,NA,not_specified,2026-05-25,"Требуется backend (middle). Java, Spring, remote формат. Санкт-Петербург.",680000
+2,middle,devops,rostov,office,NA,not_specified,NA,"Требуется devops (middle). Linux, Bash, office формат. Регион.",210000
+5,senior,backend,samara,office,mid_product,not_specified,2025-05-30,"Ищем senior backend в команду. Стек: Node.js, Express. Опыт от 5.4+ лет.",250000
+3,middle,backend,moscow,remote,smb,higher_general,2026-01-15,"Ищем middle backend в команду. Стек: Python, Django. Опыт от 2.8+ лет.",225000
+7,senior,devops,spb,hybrid,mid_product,not_specified,2025-04-24,"Требуется devops (senior). K8s, Docker, Ansible, hybrid формат. Санкт-Петербург.",555000
+1,junior,frontend,samara,office,mid_product,NA,2026-06-12,"Открыта позиция junior frontend. Технологии: React, TypeScript. Формат: офис.",70000
+2,middle,backend,ekaterinburg,office,enterprise,higher_general,2025-01-19,"enterprise приглашает backend. Требования: C#, .NET, опыт 2.2+ лет.",250000
+NA,junior,backend,moscow,hybrid,smb,not_specified,2026-03-20,"Открыта позиция junior backend. Технологии: Go, gRPC. Формат: гибрид.",125000
+NA,senior,backend,moscow,office,enterprise,higher_tech,2026-04-24,"Открыта позиция senior backend. Технологии: Node.js, Express. Формат: офис.",515000
+3,middle,mobile,moscow,remote,mid_product,higher_general,2025-03-12,"Вакансия mobile middle: Swift, iOS. Зарплата по результатам собеседования.",375000
+8,senior,qa,samara,office,mid_product,not_specified,2026-06-14,"Ищем senior qa в команду. Стек: Postman, SQL. Опыт от 7.8+ лет.",130000
+2,middle,backend,samara,office,NA,not_specified,NA,"bigtech приглашает backend. Требования: Node.js, Express, опыт 1.9+ лет.",310000
+5,senior,backend,spb,office,outsource,not_specified,2025-07-20,"Открыта позиция senior backend. Технологии: Java, Spring. Формат: офис.",220000
+4,senior,data_science,moscow,NA,enterprise,not_specified,2025-01-19,"Открыта позиция senior data_science. Технологии: Python, PyTorch. Формат: офис.",455000
+4,middle,mobile,nizhny_novgorod,NA,mid_product,not_specified,2025-07-23,Открыта позиция middle mobile. Технологии: React Native. Формат: офис.,225000
+NA,middle,backend,samara,remote,mid_product,not_specified,NA,"mid_product приглашает backend. Требования: Java, Spring, опыт 2.4+ лет.",200000
+1,junior,backend,moscow,office,mid_product,not_specified,2026-03-09,"Ищем junior backend в команду. Стек: C#, .NET. Опыт от 1.2+ лет.",135000
+1,junior,backend,moscow,hybrid,enterprise,not_specified,2025-03-23,"Требуется backend (junior). Node.js, Express, hybrid формат. Москва.",165000
+2,junior,frontend,spb,office,enterprise,NA,2026-01-24,"enterprise приглашает frontend. Требования: Vue.js, Nuxt, опыт 1.5+ лет.",105000
+5,senior,qa,moscow,office,NA,NA,2025-11-07,"Ищем senior qa в команду. Стек: Cypress, JS. Опыт от 5.1+ лет.",200000
+4,middle,frontend,samara,office,enterprise,higher_general,2026-03-26,"enterprise приглашает frontend. Требования: Vue.js, Nuxt, опыт 3.9+ лет.",595000
+3,middle,mobile,kazan,NA,outsource,NA,2025-11-10,"Требуется mobile (middle). Flutter, Dart, office формат. Регион.",235000
+NA,junior,data_science,kazan,office,mid_product,higher_general,2026-05-24,Открыта позиция junior data_science. Технологии: scikit-learn. Формат: офис.,95000
+2,middle,frontend,novosibirsk,office,bigtech,NA,2025-10-04,"bigtech приглашает frontend. Требования: Next.js, Tailwind, опыт 2.0+ лет.",315000
+2,middle,data_science,spb,NA,enterprise,not_specified,2026-04-18,Открыта позиция middle data_science. Технологии: scikit-learn. Формат: офис.,250000
+7,senior,data_science,moscow,office,mid_product,not_specified,NA,"Вакансия data_science senior: SQL, Spark. Зарплата по результатам собеседования.",435000
+3,middle,devops,novosibirsk,remote,enterprise,not_specified,2025-01-13,"Ищем middle devops в команду. Стек: K8s, Docker, Ansible. Опыт от 3.2+ лет.",225000
+2,middle,qa,samara,office,NA,not_specified,2026-06-07,"Открыта позиция middle qa. Технологии: Java, JUnit. Формат: офис.",125000
+2,middle,qa,samara,office,bigtech,not_specified,2026-03-23,"bigtech приглашает qa. Требования: Cypress, JS, опыт 2.3+ лет.",180000
+3,middle,frontend,spb,hybrid,bigtech,not_specified,2025-08-02,"Ищем middle frontend в команду. Стек: Next.js, Tailwind. Опыт от 3.3+ лет.",345000
+1,junior,frontend,ekaterinburg,remote,outsource,NA,2025-06-15,"Открыта позиция junior frontend. Технологии: Vue.js, Nuxt. Формат: удалёнка.",55000
+2,middle,data_science,moscow,hybrid,enterprise,not_specified,2026-05-29,"Открыта позиция middle data_science. Технологии: TensorFlow, Pandas. Формат: гибрид.",340000
+1,junior,frontend,novosibirsk,remote,outsource,not_specified,NA,"Вакансия frontend junior: React, TypeScript. Зарплата по результатам собеседования.",55000
+4,middle,backend,nizhny_novgorod,remote,NA,not_specified,2025-05-27,"Открыта позиция middle backend. Технологии: Java, Spring. Формат: удалёнка.",295000
+1,junior,data_science,spb,remote,mid_product,not_specified,2026-03-18,"Вакансия data_science junior: SQL, Spark. Зарплата по результатам собеседования.",90000
+NA,middle,backend,moscow,remote,bigtech,NA,2026-02-16,"Ищем middle backend в команду. Стек: Java, Spring. Опыт от 3.7+ лет.",575000
+4,middle,devops,moscow,NA,bigtech,higher_tech,2025-09-15,"bigtech приглашает devops. Требования: Terraform, AWS, опыт 3.6+ лет.",440000
+8,senior,devops,moscow,office,enterprise,not_specified,2025-12-12,"enterprise приглашает devops. Требования: Terraform, AWS, опыт 7.7+ лет.",620000
+3,middle,backend,samara,office,bigtech,higher_tech,2026-06-09,"Открыта позиция middle backend. Технологии: Go, gRPC. Формат: офис.",320000
+5,senior,data_science,nizhny_novgorod,remote,mid_product,NA,2026-05-01,"Вакансия data_science senior: Python, PyTorch. Зарплата по результатам собеседования.",410000
+0,intern,qa,samara,remote,mid_product,not_specified,2025-09-28,"Требуется qa (intern). Java, JUnit, remote формат. Регион.",30000
+6,senior,devops,nizhny_novgorod,remote,enterprise,not_specified,2026-03-08,"Открыта позиция senior devops. Технологии: Terraform, AWS. Формат: удалёнка.",375000
+3,middle,frontend,rostov,remote,enterprise,higher_tech,2025-08-08,"Открыта позиция middle frontend. Технологии: Next.js, Tailwind. Формат: удалёнка.",185000
+4,middle,qa,moscow,remote,bigtech,higher_general,2025-05-05,"Открыта позиция middle qa. Технологии: Postman, SQL. Формат: удалёнка.",260000
+6,senior,frontend,moscow,remote,mid_product,not_specified,2026-06-20,"mid_product приглашает frontend. Требования: Next.js, Tailwind, опыт 6.0+ лет.",405000
+3,middle,qa,nizhny_novgorod,office,bigtech,not_specified,2026-05-07,"Требуется qa (middle). Python, Pytest, Selenium, office формат. Регион.",175000
+0,intern,frontend,novosibirsk,office,smb,higher_general,2025-08-31,"Ищем intern frontend в команду. Стек: Vue.js, Nuxt. Опыт от 0.4+ лет.",30000
+4,senior,frontend,samara,office,NA,NA,NA,"Ищем senior frontend в команду. Стек: Vue.js, Nuxt. Опыт от 4.0+ лет.",165000
+4,middle,backend,novosibirsk,NA,enterprise,NA,2025-01-28,"Ищем middle backend в команду. Стек: C#, .NET. Опыт от 3.9+ лет.",240000
+1,junior,frontend,nizhny_novgorod,office,NA,not_specified,NA,"Открыта позиция junior frontend. Технологии: Next.js, Tailwind. Формат: офис.",75000
+1,junior,backend,kazan,remote,outsource,not_specified,2025-01-21,"outsource приглашает backend. Требования: Node.js, Express, опыт 1.0+ лет.",70000
+4,middle,qa,moscow,remote,mid_product,not_specified,2025-02-28,"Вакансия qa middle: Python, Pytest, Selenium. Зарплата по результатам собеседования.",225000
+1,junior,backend,kazan,NA,NA,higher_general,2026-01-23,"Открыта позиция junior backend. Технологии: Node.js, Express. Формат: удалёнка.",105000
+2,middle,frontend,moscow,hybrid,outsource,not_specified,2025-04-10,"Ищем middle frontend в команду. Стек: Vue.js, Nuxt. Опыт от 1.9+ лет.",270000
+0,intern,backend,moscow,remote,enterprise,not_specified,2025-09-17,"Требуется backend (intern). Python, Django, remote формат. Москва.",240000
+NA,senior,backend,moscow,remote,mid_product,not_specified,NA,"mid_product приглашает backend. Требования: C#, .NET, опыт 4.4+ лет.",550000
+NA,middle,frontend,moscow,NA,bigtech,not_specified,2025-08-22,"Ищем middle frontend в команду. Стек: Next.js, Tailwind. Опыт от 4.0+ лет.",330000
+1,junior,backend,moscow,office,outsource,not_specified,NA,"Открыта позиция junior backend. Технологии: Go, gRPC. Формат: офис.",110000
+1,junior,mobile,moscow,remote,bigtech,higher_general,NA,"Требуется mobile (junior). Swift, iOS, remote формат. Москва.",170000
+3,middle,frontend,moscow,office,mid_product,not_specified,NA,"Требуется frontend (middle). Angular, RxJS, office формат. Москва.",250000
+7,senior,qa,moscow,hybrid,NA,not_specified,2026-06-07,"Требуется qa (senior). Postman, SQL, hybrid формат. Москва.",290000
+1,junior,frontend,moscow,office,NA,not_specified,2025-09-21,"Ищем junior frontend в команду. Стек: Vue.js, Nuxt. Опыт от 0.7+ лет.",125000
+1,junior,mobile,kazan,NA,mid_product,not_specified,2025-01-26,"Вакансия mobile junior: Flutter, Dart. Зарплата по результатам собеседования.",105000
+0,intern,frontend,spb,NA,outsource,not_specified,2026-06-08,"Открыта позиция intern frontend. Технологии: Next.js, Tailwind. Формат: удалёнка.",40000
+1,junior,frontend,samara,office,mid_product,not_specified,2025-01-18,"Открыта позиция junior frontend. Технологии: Vue.js, Nuxt. Формат: офис.",80000
+4,middle,qa,ekaterinburg,office,mid_product,NA,2025-08-04,"Вакансия qa middle: Java, JUnit. Зарплата по результатам собеседования.",140000
+3,middle,devops,moscow,hybrid,enterprise,NA,2026-06-22,"enterprise приглашает devops. Требования: CI/CD, GitLab, опыт 2.7+ лет.",425000
+3,middle,qa,moscow,remote,enterprise,higher_tech,2025-03-20,"Требуется qa (middle). Cypress, JS, remote формат. Москва.",200000
+7,senior,data_science,rostov,office,bigtech,NA,2026-03-08,Ищем senior data_science в команду. Стек: scikit-learn. Опыт от 7.4+ лет.,450000
+3,middle,devops,moscow,office,smb,not_specified,NA,"Открыта позиция middle devops. Технологии: Terraform, AWS. Формат: офис.",225000
+NA,lead,backend,moscow,NA,outsource,not_specified,NA,"Ищем lead backend в команду. Стек: Python, Django. Опыт от 9.7+ лет.",495000
+7,senior,backend,nizhny_novgorod,office,enterprise,not_specified,2025-07-14,"Ищем senior backend в команду. Стек: Python, Django. Опыт от 6.7+ лет.",365000
+1,junior,backend,ekaterinburg,office,outsource,not_specified,2025-10-10,"Вакансия backend junior: Python, Django. Зарплата по результатам собеседования.",80000
+NA,senior,frontend,spb,office,outsource,not_specified,2025-09-05,"Открыта позиция senior frontend. Технологии: Vue.js, Nuxt. Формат: офис.",320000
+7,senior,backend,moscow,remote,bigtech,not_specified,2025-04-25,"bigtech приглашает backend. Требования: Node.js, Express, опыт 6.6+ лет.",680000
+1,junior,backend,moscow,remote,NA,not_specified,2025-01-20,"mid_product приглашает backend. Требования: C#, .NET, опыт 1.3+ лет.",125000
+2,middle,qa,kazan,remote,mid_product,higher_general,2025-01-13,"mid_product приглашает qa. Требования: Postman, SQL, опыт 1.9+ лет.",130000
+0,junior,qa,nizhny_novgorod,office,NA,not_specified,2026-04-13,"Открыта позиция junior qa. Технологии: Postman, SQL. Формат: офис.",60000
+6,senior,frontend,moscow,office,mid_product,not_specified,2025-09-13,"mid_product приглашает frontend. Требования: Next.js, Tailwind, опыт 5.7+ лет.",1360000
+5,senior,backend,moscow,remote,mid_product,not_specified,2025-06-18,"Требуется backend (senior). Python, Django, remote формат. Москва.",380000
+7,senior,backend,ekaterinburg,office,bigtech,NA,2025-03-20,"Ищем senior backend в команду. Стек: Java, Spring. Опыт от 6.8+ лет.",510000
+7,senior,data_science,novosibirsk,office,smb,not_specified,2026-03-22,"Ищем senior data_science в команду. Стек: TensorFlow, Pandas. Опыт от 7.4+ лет.",405000
+4,middle,data_science,moscow,office,mid_product,not_specified,2025-07-21,Открыта позиция middle data_science. Технологии: scikit-learn. Формат: офис.,260000
+8,senior,backend,moscow,remote,mid_product,higher_general,2025-01-21,"Вакансия backend senior: Python, Django. Зарплата по результатам собеседования.",435000
+3,middle,frontend,moscow,office,mid_product,not_specified,2025-09-16,"Ищем middle frontend в команду. Стек: Next.js, Tailwind. Опыт от 3.3+ лет.",280000
+7,senior,devops,kazan,remote,NA,not_specified,2026-06-27,"Вакансия devops senior: Linux, Bash. Зарплата по результатам собеседования.",365000
+1,junior,mobile,moscow,office,mid_product,NA,NA,"Ищем junior mobile в команду. Стек: Flutter, Dart. Опыт от 1.4+ лет.",135000
+0,junior,frontend,moscow,office,smb,NA,2025-02-22,"Вакансия frontend junior: Next.js, Tailwind. Зарплата по результатам собеседования.",85000
+6,senior,frontend,ekaterinburg,office,mid_product,NA,NA,"Требуется frontend (senior). React, TypeScript, office формат. Регион.",380000
+4,middle,backend,samara,NA,mid_product,NA,2025-05-03,"Вакансия backend middle: C#, .NET. Зарплата по результатам собеседования.",175000
+NA,junior,devops,novosibirsk,remote,mid_product,NA,2026-04-05,"Открыта позиция junior devops. Технологии: CI/CD, GitLab. Формат: удалёнка.",135000
+3,middle,devops,kazan,hybrid,enterprise,not_specified,2026-04-25,"Открыта позиция middle devops. Технологии: Terraform, AWS. Формат: гибрид.",275000
+1,junior,data_science,spb,remote,enterprise,not_specified,2025-08-31,"Ищем junior data_science в команду. Стек: Python, PyTorch. Опыт от 0.8+ лет.",130000
+2,middle,data_science,rostov,NA,mid_product,higher_general,2025-08-10,"mid_product приглашает data_science. Требования: scikit-learn, опыт 2.3+ лет.",170000
+0,intern,backend,moscow,office,bigtech,not_specified,2025-10-17,"Ищем intern backend в команду. Стек: Go, gRPC. Опыт от 0.1+ лет.",95000
+NA,junior,mobile,kazan,NA,mid_product,NA,2025-02-11,Вакансия mobile junior: React Native. Зарплата по результатам собеседования.,95000
+2,middle,frontend,moscow,NA,mid_product,higher_general,NA,"Ищем middle frontend в команду. Стек: React, TypeScript. Опыт от 2.4+ лет.",630000
+2,middle,backend,samara,office,bigtech,not_specified,NA,"Требуется backend (middle). C#, .NET, office формат. Регион.",280000
+NA,junior,mobile,moscow,office,mid_product,not_specified,NA,"Требуется mobile (junior). Swift, iOS, office формат. Москва.",150000
+2,middle,data_science,rostov,remote,outsource,not_specified,2025-10-31,"Требуется data_science (middle). SQL, Spark, remote формат. Регион.",195000
+NA,junior,backend,moscow,hybrid,NA,not_specified,2026-06-23,"bigtech приглашает backend. Требования: Python, Django, опыт 0.8+ лет.",185000
+4,middle,frontend,rostov,NA,outsource,higher_general,2025-08-09,"Требуется frontend (middle). Angular, RxJS, office формат. Регион.",170000
+1,junior,mobile,rostov,office,mid_product,not_specified,2025-01-06,Открыта позиция junior mobile. Технологии: React Native. Формат: офис.,105000
+6,senior,qa,nizhny_novgorod,NA,enterprise,not_specified,2026-01-11,"Вакансия qa senior: Postman, SQL. Зарплата по результатам собеседования.",180000
+7,senior,mobile,nizhny_novgorod,remote,mid_product,not_specified,2025-10-29,"Вакансия mobile senior: Swift, iOS. Зарплата по результатам собеседования.",365000
+0,intern,devops,rostov,office,enterprise,not_specified,2025-09-30,"enterprise приглашает devops. Требования: K8s, Docker, Ansible, опыт 0.0+ лет.",70000
+2,middle,devops,moscow,office,enterprise,not_specified,2025-04-25,"Открыта позиция middle devops. Технологии: K8s, Docker, Ansible. Формат: офис.",280000
+3,middle,frontend,moscow,office,enterprise,not_specified,2025-02-22,"Ищем middle frontend в команду. Стек: Vue.js, Nuxt. Опыт от 2.7+ лет.",330000
+4,middle,backend,moscow,NA,enterprise,not_specified,NA,"Вакансия backend middle: C#, .NET. Зарплата по результатам собеседования.",420000
+3,middle,qa,novosibirsk,NA,enterprise,higher_tech,NA,"Требуется qa (middle). Python, Pytest, Selenium, office формат. Регион.",125000
+3,middle,mobile,moscow,office,NA,NA,2025-10-11,Вакансия mobile middle: React Native. Зарплата по результатам собеседования.,310000
+3,middle,qa,moscow,office,smb,not_specified,2025-03-26,"Открыта позиция middle qa. Технологии: Python, Pytest, Selenium. Формат: офис.",170000
+6,senior,mobile,rostov,office,NA,higher_tech,NA,Вакансия mobile senior: React Native. Зарплата по результатам собеседования.,505000
+3,middle,mobile,ekaterinburg,remote,mid_product,not_specified,2025-08-26,"Вакансия mobile middle: Swift, iOS. Зарплата по результатам собеседования.",250000
+4,middle,frontend,rostov,NA,mid_product,not_specified,2025-05-25,"Вакансия frontend middle: Next.js, Tailwind. Зарплата по результатам собеседования.",175000
+NA,intern,frontend,spb,office,enterprise,not_specified,NA,"Ищем intern frontend в команду. Стек: Next.js, Tailwind. Опыт от 0.1+ лет.",50000
+6,senior,devops,moscow,office,outsource,higher_general,2025-09-06,"Открыта позиция senior devops. Технологии: Terraform, AWS. Формат: офис.",415000
+8,senior,mobile,moscow,hybrid,mid_product,NA,2025-05-13,"Ищем senior mobile в команду. Стек: Flutter, Dart. Опыт от 7.5+ лет.",700000
+5,senior,mobile,nizhny_novgorod,remote,NA,not_specified,NA,"Требуется mobile (senior). Swift, iOS, remote формат. Регион.",290000
+NA,middle,mobile,moscow,hybrid,mid_product,not_specified,2025-04-28,"Открыта позиция middle mobile. Технологии: Kotlin, Android. Формат: гибрид.",440000
+NA,junior,frontend,moscow,NA,enterprise,not_specified,2026-05-27,"Открыта позиция junior frontend. Технологии: Vue.js, Nuxt. Формат: гибрид.",115000
+1,junior,frontend,nizhny_novgorod,remote,outsource,not_specified,2025-07-23,"Вакансия frontend junior: React, TypeScript. Зарплата по результатам собеседования.",60000
+3,middle,qa,spb,office,smb,higher_general,2025-10-22,"Ищем middle qa в команду. Стек: Cypress, JS. Опыт от 2.7+ лет.",155000
+1,junior,backend,ekaterinburg,office,enterprise,not_specified,2025-08-22,"Открыта позиция junior backend. Технологии: Java, Spring. Формат: офис.",90000
+1,junior,backend,spb,hybrid,bigtech,NA,2026-03-17,"Вакансия backend junior: C#, .NET. Зарплата по результатам собеседования.",150000
+1,junior,qa,ekaterinburg,office,outsource,not_specified,2026-06-11,"Вакансия qa junior: Python, Pytest, Selenium. Зарплата по результатам собеседования.",60000
+3,middle,devops,spb,hybrid,smb,NA,2026-06-15,"Открыта позиция middle devops. Технологии: CI/CD, GitLab. Формат: гибрид.",245000
+4,middle,data_science,moscow,hybrid,enterprise,NA,2025-11-20,"Ищем middle data_science в команду. Стек: TensorFlow, Pandas. Опыт от 3.7+ лет.",305000
+2,middle,qa,kazan,remote,smb,NA,2025-01-10,"Вакансия qa middle: Cypress, JS. Зарплата по результатам собеседования.",110000
+2,middle,frontend,novosibirsk,remote,bigtech,not_specified,2026-05-18,"Открыта позиция middle frontend. Технологии: Vue.js, Nuxt. Формат: удалёнка.",220000
+NA,senior,backend,moscow,remote,mid_product,not_specified,2025-06-10,"Ищем senior backend в команду. Стек: Node.js, Express. Опыт от 6.2+ лет.",430000
+4,middle,backend,novosibirsk,office,enterprise,not_specified,2025-04-23,"Открыта позиция middle backend. Технологии: Go, gRPC. Формат: офис.",255000
+1,junior,backend,novosibirsk,office,mid_product,not_specified,2026-04-07,"mid_product приглашает backend. Требования: Node.js, Express, опыт 1.4+ лет.",85000
+NA,senior,devops,spb,office,mid_product,not_specified,2026-03-30,"mid_product приглашает devops. Требования: Linux, Bash, опыт 6.1+ лет.",320000
+NA,senior,frontend,samara,office,NA,higher_tech,2025-05-05,"Требуется frontend (senior). Angular, RxJS, office формат. Регион.",295000
+NA,middle,backend,nizhny_novgorod,remote,mid_product,not_specified,2025-09-25,"Требуется backend (middle). Python, Django, remote формат. Регион.",205000
+2,middle,qa,moscow,NA,mid_product,not_specified,2025-05-08,"Открыта позиция middle qa. Технологии: Postman, SQL. Формат: удалёнка.",190000
+2,middle,backend,novosibirsk,remote,outsource,not_specified,2025-05-18,"Требуется backend (middle). Java, Spring, remote формат. Регион.",475000
+1,junior,frontend,spb,NA,mid_product,not_specified,2025-05-13,"Ищем junior frontend в команду. Стек: Angular, RxJS. Опыт от 1.0+ лет.",80000
+2,middle,qa,moscow,remote,outsource,not_specified,2025-10-13,"Ищем middle qa в команду. Стек: Java, JUnit. Опыт от 2.3+ лет.",155000
+6,senior,qa,moscow,remote,outsource,not_specified,2026-03-14,"Требуется qa (senior). Java, JUnit, remote формат. Москва.",460000
+2,middle,frontend,moscow,NA,outsource,not_specified,2026-01-22,"Требуется frontend (middle). Next.js, Tailwind, remote формат. Москва.",195000
+NA,middle,devops,kazan,NA,outsource,not_specified,2025-02-25,"Требуется devops (middle). K8s, Docker, Ansible, remote формат. Регион.",150000
+4,middle,frontend,moscow,office,bigtech,higher_general,NA,"Открыта позиция middle frontend. Технологии: Next.js, Tailwind. Формат: офис.",345000
+2,middle,backend,kazan,office,NA,not_specified,2025-08-27,"Ищем middle backend в команду. Стек: C#, .NET. Опыт от 1.7+ лет.",210000
+4,senior,data_science,novosibirsk,NA,bigtech,not_specified,2025-08-27,"bigtech приглашает data_science. Требования: scikit-learn, опыт 4.1+ лет.",460000
+4,senior,backend,moscow,hybrid,enterprise,not_specified,NA,"Требуется backend (senior). Java, Spring, hybrid формат. Москва.",595000
+NA,middle,backend,ekaterinburg,remote,mid_product,not_specified,2025-08-03,"Ищем middle backend в команду. Стек: Node.js, Express. Опыт от 1.7+ лет.",230000
+1,junior,backend,kazan,NA,mid_product,NA,2025-10-14,"Ищем junior backend в команду. Стек: Python, Django. Опыт от 1.1+ лет.",80000
+3,middle,frontend,ekaterinburg,office,mid_product,not_specified,2026-03-02,"Открыта позиция middle frontend. Технологии: React, TypeScript. Формат: офис.",230000
+2,middle,frontend,moscow,remote,mid_product,not_specified,2025-05-18,"Ищем middle frontend в команду. Стек: Angular, RxJS. Опыт от 2.2+ лет.",285000
+4,senior,mobile,nizhny_novgorod,office,mid_product,not_specified,2026-06-24,"Открыта позиция senior mobile. Технологии: Flutter, Dart. Формат: офис.",285000
+3,middle,backend,moscow,office,bigtech,higher_general,2026-05-10,"Требуется backend (middle). Java, Spring, office формат. Москва.",470000
+4,middle,data_science,moscow,remote,bigtech,higher_tech,2025-12-22,"Требуется data_science (middle). TensorFlow, Pandas, remote формат. Москва.",325000
+2,middle,data_science,spb,hybrid,mid_product,NA,2025-05-10,"Требуется data_science (middle). TensorFlow, Pandas, hybrid формат. Санкт-Петербург.",260000
+1,junior,frontend,samara,office,enterprise,not_specified,2025-05-27,"Вакансия frontend junior: Angular, RxJS. Зарплата по результатам собеседования.",75000
+3,middle,qa,kazan,remote,mid_product,not_specified,2025-04-25,"Требуется qa (middle). Postman, SQL, remote формат. Регион.",145000
+3,middle,frontend,spb,office,outsource,NA,NA,"Ищем middle frontend в команду. Стек: Angular, RxJS. Опыт от 3.2+ лет.",190000
+3,middle,mobile,moscow,office,smb,not_specified,2025-01-23,"Открыта позиция middle mobile. Технологии: Flutter, Dart. Формат: офис.",320000
+2,middle,frontend,moscow,remote,enterprise,NA,2025-04-22,"Требуется frontend (middle). Vue.js, Nuxt, remote формат. Москва.",260000
+8,senior,backend,moscow,hybrid,NA,not_specified,2026-01-31,"Ищем senior backend в команду. Стек: C#, .NET. Опыт от 7.7+ лет.",485000
+NA,middle,backend,spb,office,smb,not_specified,2025-01-19,"Вакансия backend middle: Node.js, Express. Зарплата по результатам собеседования.",185000
+1,junior,backend,moscow,office,outsource,not_specified,2025-05-19,"Вакансия backend junior: Node.js, Express. Зарплата по результатам собеседования.",110000
+4,middle,qa,ekaterinburg,NA,mid_product,not_specified,2026-03-12,"mid_product приглашает qa. Требования: Cypress, JS, опыт 3.5+ лет.",140000
+1,junior,qa,spb,NA,mid_product,NA,2026-04-21,"Вакансия qa junior: Java, JUnit. Зарплата по результатам собеседования.",85000
+2,middle,backend,moscow,remote,mid_product,not_specified,2026-01-03,"Ищем middle backend в команду. Стек: Node.js, Express. Опыт от 2.3+ лет.",345000
+1,junior,devops,moscow,remote,outsource,higher_tech,2025-09-21,"Вакансия devops junior: Linux, Bash. Зарплата по результатам собеседования.",165000
+6,senior,frontend,novosibirsk,office,mid_product,not_specified,2026-04-08,"mid_product приглашает frontend. Требования: Angular, RxJS, опыт 6.0+ лет.",380000
+2,middle,backend,nizhny_novgorod,office,outsource,not_specified,2025-03-29,"Вакансия backend middle: Java, Spring. Зарплата по результатам собеседования.",175000
+3,middle,backend,rostov,office,outsource,not_specified,2025-06-25,"outsource приглашает backend. Требования: C#, .NET, опыт 2.6+ лет.",165000
+3,middle,data_science,rostov,office,enterprise,not_specified,2025-01-10,"Ищем middle data_science в команду. Стек: Python, PyTorch. Опыт от 2.6+ лет.",215000
+1,junior,backend,novosibirsk,office,outsource,not_specified,2025-05-02,"Требуется backend (junior). Java, Spring, office формат. Регион.",75000
+3,middle,backend,nizhny_novgorod,office,enterprise,higher_tech,2026-02-06,"Ищем middle backend в команду. Стек: Go, gRPC. Опыт от 3.4+ лет.",225000
+2,middle,devops,moscow,office,NA,not_specified,2025-12-31,"Вакансия devops middle: Linux, Bash. Зарплата по результатам собеседования.",245000
+NA,middle,data_science,spb,remote,mid_product,NA,2025-11-16,"Требуется data_science (middle). Python, PyTorch, remote формат. Санкт-Петербург.",255000
+4,middle,mobile,nizhny_novgorod,office,NA,higher_general,2025-10-06,"Требуется mobile (middle). Kotlin, Android, office формат. Регион.",385000
+2,middle,data_science,nizhny_novgorod,office,mid_product,not_specified,2026-04-09,"Открыта позиция middle data_science. Технологии: TensorFlow, Pandas. Формат: офис.",200000
+2,middle,backend,moscow,office,mid_product,higher_general,2026-03-23,"Требуется backend (middle). C#, .NET, office формат. Москва.",410000
+1,junior,data_science,nizhny_novgorod,office,outsource,not_specified,NA,Вакансия data_science junior: scikit-learn. Зарплата по результатам собеседования.,80000
+4,middle,backend,rostov,office,enterprise,higher_tech,2026-03-04,"Открыта позиция middle backend. Технологии: Python, Django. Формат: офис.",225000
+2,junior,data_science,moscow,NA,outsource,NA,2025-02-23,"Требуется data_science (junior). scikit-learn, office формат. Москва.",125000
+NA,middle,qa,ekaterinburg,office,outsource,higher_general,2025-11-28,"Ищем middle qa в команду. Стек: Cypress, JS. Опыт от 3.2+ лет.",130000
+3,middle,backend,moscow,remote,outsource,not_specified,2025-08-06,"Ищем middle backend в команду. Стек: Java, Spring. Опыт от 3.0+ лет.",245000
+1,junior,frontend,nizhny_novgorod,office,smb,not_specified,2025-12-17,"Требуется frontend (junior). Next.js, Tailwind, office формат. Регион.",60000
+7,senior,mobile,ekaterinburg,remote,enterprise,NA,2025-08-13,Открыта позиция senior mobile. Технологии: React Native. Формат: удалёнка.,1310000
+3,middle,data_science,nizhny_novgorod,NA,mid_product,NA,2025-03-14,Вакансия data_science middle: scikit-learn. Зарплата по результатам собеседования.,185000
+1,junior,qa,kazan,NA,enterprise,NA,NA,"Требуется qa (junior). Postman, SQL, remote формат. Регион.",80000
+2,middle,backend,samara,office,outsource,higher_general,2025-12-15,"Требуется backend (middle). Node.js, Express, office формат. Регион.",225000
+2,middle,frontend,moscow,hybrid,bigtech,not_specified,NA,"Ищем middle frontend в команду. Стек: Vue.js, Nuxt. Опыт от 1.8+ лет.",370000
+8,senior,backend,kazan,remote,bigtech,not_specified,2025-11-30,"Ищем senior backend в команду. Стек: Java, Spring. Опыт от 7.8+ лет.",360000
+4,middle,backend,spb,hybrid,outsource,not_specified,2025-01-23,"Ищем middle backend в команду. Стек: C#, .NET. Опыт от 3.8+ лет.",240000
+2,middle,qa,samara,remote,NA,not_specified,2025-12-08,"Открыта позиция middle qa. Технологии: Cypress, JS. Формат: удалёнка.",105000
+0,junior,data_science,kazan,office,mid_product,higher_tech,2025-11-25,"mid_product приглашает data_science. Требования: SQL, Spark, опыт 0.5+ лет.",95000
+NA,middle,frontend,nizhny_novgorod,remote,mid_product,not_specified,2025-06-14,"Вакансия frontend middle: Vue.js, Nuxt. Зарплата по результатам собеседования.",190000
+4,middle,frontend,moscow,hybrid,enterprise,not_specified,2026-01-30,"Вакансия frontend middle: Vue.js, Nuxt. Зарплата по результатам собеседования.",295000
+1,junior,qa,moscow,office,outsource,not_specified,2026-03-07,"Открыта позиция junior qa. Технологии: Java, JUnit. Формат: офис.",245000
+1,junior,backend,moscow,remote,bigtech,higher_tech,NA,"Ищем junior backend в команду. Стек: Java, Spring. Опыт от 0.9+ лет.",145000
+3,middle,qa,moscow,office,bigtech,not_specified,2026-03-07,"Ищем middle qa в команду. Стек: Cypress, JS. Опыт от 2.8+ лет.",215000
+14,lead,frontend,ekaterinburg,office,bigtech,not_specified,2025-11-12,"Открыта позиция lead frontend. Технологии: Angular, RxJS. Формат: офис.",1075000
+4,senior,mobile,samara,remote,NA,not_specified,NA,"Требуется mobile (senior). Kotlin, Android, remote формат. Регион.",430000
+3,middle,frontend,moscow,NA,bigtech,not_specified,2025-03-06,"Ищем middle frontend в команду. Стек: Next.js, Tailwind. Опыт от 3.1+ лет.",330000
+2,middle,backend,spb,NA,outsource,higher_tech,2026-02-19,"Вакансия backend middle: Java, Spring. Зарплата по результатам собеседования.",215000
+3,middle,mobile,moscow,office,enterprise,NA,2025-04-22,"enterprise приглашает mobile. Требования: React Native, опыт 3.1+ лет.",460000
+3,middle,data_science,spb,remote,bigtech,higher_general,2025-12-02,Открыта позиция middle data_science. Технологии: scikit-learn. Формат: удалёнка.,315000
+7,senior,backend,rostov,remote,smb,NA,2026-03-25,"smb приглашает backend. Требования: Node.js, Express, опыт 6.8+ лет.",345000
+1,junior,frontend,novosibirsk,office,enterprise,not_specified,2025-03-13,"Требуется frontend (junior). Angular, RxJS, office формат. Регион.",80000
+3,middle,backend,moscow,remote,enterprise,not_specified,NA,"Вакансия backend middle: Python, Django. Зарплата по результатам собеседования.",430000
+5,senior,backend,moscow,office,enterprise,not_specified,2026-04-09,"Ищем senior backend в команду. Стек: Go, gRPC. Опыт от 4.7+ лет.",705000
+2,middle,data_science,moscow,remote,bigtech,not_specified,2025-08-23,Вакансия data_science middle: scikit-learn. Зарплата по результатам собеседования.,455000
+10,lead,qa,moscow,office,NA,not_specified,2025-12-04,"mid_product приглашает qa. Требования: Postman, SQL, опыт 9.8+ лет.",310000
+1,junior,backend,moscow,office,mid_product,NA,2025-02-20,"mid_product приглашает backend. Требования: C#, .NET, опыт 1.2+ лет.",145000
+5,senior,frontend,moscow,office,outsource,NA,2026-05-28,"Вакансия frontend senior: Angular, RxJS. Зарплата по результатам собеседования.",430000
+2,middle,backend,moscow,office,bigtech,not_specified,2026-02-21,"Открыта позиция middle backend. Технологии: Go, gRPC. Формат: офис.",410000
+NA,junior,devops,samara,office,NA,not_specified,2026-03-27,"enterprise приглашает devops. Требования: K8s, Docker, Ansible, опыт 1.2+ лет.",120000
+2,middle,backend,spb,office,enterprise,not_specified,2025-11-29,"enterprise приглашает backend. Требования: Java, Spring, опыт 2.4+ лет.",305000
+3,middle,qa,moscow,hybrid,outsource,NA,2026-04-17,"Ищем middle qa в команду. Стек: Java, JUnit. Опыт от 2.8+ лет.",185000
+2,middle,data_science,moscow,office,bigtech,not_specified,2025-09-05,"Вакансия data_science middle: Python, PyTorch. Зарплата по результатам собеседования.",275000
+5,senior,data_science,samara,office,NA,higher_general,NA,Открыта позиция senior data_science. Технологии: scikit-learn. Формат: офис.,1050000
+4,middle,qa,rostov,office,NA,NA,2025-02-08,"Требуется qa (middle). Java, JUnit, office формат. Регион.",250000
+NA,junior,qa,moscow,remote,mid_product,NA,2025-04-25,"Ищем junior qa в команду. Стек: Java, JUnit. Опыт от 1.0+ лет.",100000
+7,senior,qa,nizhny_novgorod,office,outsource,not_specified,2025-01-21,"Ищем senior qa в команду. Стек: Postman, SQL. Опыт от 7.4+ лет.",105000
+2,middle,backend,kazan,office,outsource,not_specified,2025-09-15,"outsource приглашает backend. Требования: Go, gRPC, опыт 2.5+ лет.",165000
+1,junior,mobile,moscow,hybrid,outsource,not_specified,2025-11-03,"Требуется mobile (junior). Swift, iOS, hybrid формат. Москва.",120000
+5,senior,frontend,kazan,office,enterprise,not_specified,2025-04-20,"Открыта позиция senior frontend. Технологии: Angular, RxJS. Формат: офис.",385000
+7,senior,backend,ekaterinburg,office,outsource,not_specified,2025-12-08,"Вакансия backend senior: Python, Django. Зарплата по результатам собеседования.",310000
+4,middle,mobile,nizhny_novgorod,office,enterprise,not_specified,2025-04-07,Вакансия mobile middle: React Native. Зарплата по результатам собеседования.,395000
+0,intern,frontend,moscow,NA,mid_product,not_specified,2025-05-03,"Ищем intern frontend в команду. Стек: React, TypeScript. Опыт от 0.4+ лет.",55000
+7,senior,frontend,moscow,hybrid,outsource,not_specified,2026-05-21,"Вакансия frontend senior: React, TypeScript. Зарплата по результатам собеседования.",975000
+3,middle,backend,rostov,office,enterprise,NA,NA,"Вакансия backend middle: Java, Spring. Зарплата по результатам собеседования.",230000
+4,senior,backend,nizhny_novgorod,remote,NA,higher_tech,NA,"Вакансия backend senior: Java, Spring. Зарплата по результатам собеседования.",365000
+3,middle,qa,nizhny_novgorod,remote,outsource,not_specified,NA,"Требуется qa (middle). Python, Pytest, Selenium, remote формат. Регион.",105000
+6,senior,data_science,kazan,office,NA,higher_general,2025-08-17,"Ищем senior data_science в команду. Стек: Python, PyTorch. Опыт от 6.2+ лет.",240000
+2,middle,frontend,moscow,office,NA,higher_tech,NA,"Ищем middle frontend в команду. Стек: React, TypeScript. Опыт от 1.7+ лет.",275000
+1,junior,backend,rostov,remote,enterprise,not_specified,2025-09-19,"Вакансия backend junior: Java, Spring. Зарплата по результатам собеседования.",90000
+4,middle,qa,novosibirsk,office,enterprise,not_specified,2026-03-03,"enterprise приглашает qa. Требования: Java, JUnit, опыт 3.7+ лет.",140000
+NA,senior,qa,samara,remote,NA,higher_tech,2026-06-26,"Требуется qa (senior). Postman, SQL, remote формат. Регион.",200000
+2,middle,devops,moscow,hybrid,outsource,higher_tech,2025-10-19,"Ищем middle devops в команду. Стек: CI/CD, GitLab. Опыт от 2.1+ лет.",370000
+3,middle,qa,kazan,hybrid,enterprise,not_specified,2026-03-28,"enterprise приглашает qa. Требования: Postman, SQL, опыт 3.4+ лет.",140000
+NA,intern,frontend,spb,NA,bigtech,higher_tech,2025-06-14,"Вакансия frontend intern: Angular, RxJS. Зарплата по результатам собеседования.",65000
+1,junior,qa,rostov,NA,bigtech,not_specified,2025-02-17,"Вакансия qa junior: Postman, SQL. Зарплата по результатам собеседования.",95000
+2,middle,devops,ekaterinburg,NA,enterprise,not_specified,NA,"Вакансия devops middle: Terraform, AWS. Зарплата по результатам собеседования.",245000
+4,middle,devops,moscow,hybrid,mid_product,NA,2026-05-07,"Требуется devops (middle). K8s, Docker, Ansible, hybrid формат. Москва.",295000
+1,junior,mobile,spb,NA,outsource,not_specified,2025-06-23,"Ищем junior mobile в команду. Стек: Swift, iOS. Опыт от 1.1+ лет.",85000
+7,senior,data_science,moscow,office,mid_product,higher_tech,2025-10-15,"Вакансия data_science senior: TensorFlow, Pandas. Зарплата по результатам собеседования.",540000
+5,senior,backend,samara,office,outsource,not_specified,2026-05-18,"Вакансия backend senior: Python, Django. Зарплата по результатам собеседования.",385000
+7,senior,qa,spb,office,smb,NA,2025-07-30,"Открыта позиция senior qa. Технологии: Java, JUnit. Формат: офис.",145000
+3,middle,backend,samara,remote,enterprise,NA,2025-03-11,"enterprise приглашает backend. Требования: Java, Spring, опыт 3.3+ лет.",210000
+2,middle,backend,kazan,office,mid_product,not_specified,NA,"Вакансия backend middle: Java, Spring. Зарплата по результатам собеседования.",260000
+NA,middle,backend,moscow,hybrid,mid_product,not_specified,2025-04-17,"Ищем middle backend в команду. Стек: Python, Django. Опыт от 3.8+ лет.",340000
+6,senior,frontend,ekaterinburg,office,NA,not_specified,NA,"outsource приглашает frontend. Требования: Angular, RxJS, опыт 5.7+ лет.",180000
+3,middle,backend,kazan,remote,enterprise,not_specified,2025-11-14,"Требуется backend (middle). Go, gRPC, remote формат. Регион.",195000
+0,junior,devops,nizhny_novgorod,remote,outsource,NA,2025-03-01,"Вакансия devops junior: Linux, Bash. Зарплата по результатам собеседования.",85000
+2,middle,frontend,spb,office,enterprise,higher_general,2026-01-16,"enterprise приглашает frontend. Требования: Next.js, Tailwind, опыт 1.6+ лет.",295000
+3,middle,frontend,moscow,office,mid_product,not_specified,2025-10-23,"Ищем middle frontend в команду. Стек: Angular, RxJS. Опыт от 3.0+ лет.",315000
+2,middle,frontend,rostov,office,enterprise,not_specified,2026-01-30,"Ищем middle frontend в команду. Стек: Vue.js, Nuxt. Опыт от 1.6+ лет.",240000
+NA,middle,frontend,ekaterinburg,remote,outsource,not_specified,2025-06-12,"Открыта позиция middle frontend. Технологии: Next.js, Tailwind. Формат: удалёнка.",190000
+6,senior,frontend,samara,remote,mid_product,not_specified,2025-11-03,"Открыта позиция senior frontend. Технологии: Angular, RxJS. Формат: удалёнка.",280000
+1,junior,frontend,moscow,office,enterprise,NA,2026-06-11,"Ищем junior frontend в команду. Стек: React, TypeScript. Опыт от 1.3+ лет.",125000
+6,senior,qa,spb,office,mid_product,not_specified,2025-12-17,"mid_product приглашает qa. Требования: Cypress, JS, опыт 5.7+ лет.",250000
+2,middle,frontend,kazan,office,bigtech,NA,2026-03-15,"Открыта позиция middle frontend. Технологии: Angular, RxJS. Формат: офис.",235000
+2,middle,qa,spb,hybrid,enterprise,NA,NA,"enterprise приглашает qa. Требования: Cypress, JS, опыт 1.9+ лет.",235000

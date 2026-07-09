@@ -1,0 +1,53 @@
+name it_salary_raw
+title.ru Вакансии в ИТ (зарплаты) — сырая версия
+title.en IT Job Salaries — raw version
+task regression
+family ITSalary
+variant raw
+rows 750
+columns 10
+version 1.0
+features experience_years, grade, specialization, city, work_format, company_segment, education, posted_date, description
+target salary_rub
+
+description.ru Синтетический учебный датасет для предсказания зарплаты ИТ-специалиста. Сырая версия: пропуски (~15%), выбросы в зарплате, детализированные города, длинные текстовые описания вакансий. Требует глубокой очистки.
+description.en Synthetic educational dataset for predicting IT specialist salary. Raw version: missing values (~15%), salary outliers, detailed city names, long text descriptions. Requires deep cleaning.
+source Synthetic dataset based on hh.ru and Habr Career salary statistics (2025-2026)
+url https://github.com/tisomeke/ml_datasets_pascalabc.net
+license MIT
+synthetic true
+missing yes
+missing_values NA
+
+feature.experience_years int
+feature.grade categorical
+feature.specialization categorical
+feature.city categorical
+feature.work_format categorical
+feature.company_segment categorical
+feature.education categorical
+feature.posted_date DateTime
+feature.description string
+feature.salary_rub float
+
+feature.experience_years.ru опыт работы в годах
+feature.grade.ru грейд специалиста
+feature.specialization.ru специализация
+feature.city.ru город вакансии
+feature.work_format.ru формат работы
+feature.company_segment.ru сегмент компании
+feature.education.ru требование к образованию
+feature.posted_date.ru дата публикации вакансии
+feature.description.ru текстовое описание вакансии
+feature.salary_rub.ru зарплата в рублях (net)
+
+feature.experience_years.en years of experience
+feature.grade.en specialist grade level
+feature.specialization.en job specialization
+feature.city.en vacancy city
+feature.work_format.en work format
+feature.company_segment.en company segment
+feature.education.en education requirement
+feature.posted_date.en vacancy publication date
+feature.description.en job description text
+feature.salary_rub.en salary in rubles (net)

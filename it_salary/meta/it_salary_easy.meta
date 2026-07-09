@@ -1,0 +1,46 @@
+name it_salary_easy
+title.ru Вакансии в ИТ (зарплаты) — очищенная версия
+title.en IT Job Salaries — clean version
+task regression
+family ITSalary
+variant easy
+rows 750
+columns 8
+version 1.0
+features experience_years, grade, specialization, city, work_format, company_segment, education
+target salary_rub
+
+description.ru Синтетический учебный датасет для предсказания зарплаты ИТ-специалиста по параметрам вакансии. Очищенная версия без пропусков и сложных типов данных.
+description.en Synthetic educational dataset for predicting IT specialist salary based on job vacancy parameters. Clean version without missing values or complex data types.
+source Synthetic dataset based on hh.ru and Habr Career salary statistics (2025-2026)
+url https://github.com/tisomeke/ml_datasets_pascalabc.net
+license MIT
+synthetic true
+missing no
+
+feature.experience_years int
+feature.grade categorical
+feature.specialization categorical
+feature.city categorical
+feature.work_format categorical
+feature.company_segment categorical
+feature.education categorical
+feature.salary_rub float
+
+feature.experience_years.ru опыт работы в годах
+feature.grade.ru грейд специалиста
+feature.specialization.ru специализация
+feature.city.ru город вакансии
+feature.work_format.ru формат работы
+feature.company_segment.ru сегмент компании
+feature.education.ru требование к образованию
+feature.salary_rub.ru зарплата в рублях (net)
+
+feature.experience_years.en years of experience
+feature.grade.en specialist grade level
+feature.specialization.en job specialization
+feature.city.en vacancy city
+feature.work_format.en work format
+feature.company_segment.en company segment
+feature.education.en education requirement
+feature.salary_rub.en salary in rubles (net)
