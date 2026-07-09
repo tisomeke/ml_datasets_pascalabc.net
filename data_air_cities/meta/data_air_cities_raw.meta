@@ -1,0 +1,65 @@
+name data_air_cities_raw
+title.ru Состояние загрязнения атмосферы в городах России
+title.en Air pollution in Russian cities
+task regression
+family AirCities
+variant raw
+rows 3992
+columns 15
+version 1.0
+features year, region, region_oktmo, city, city_oktmo, air_general_level, air_standard_index, air_repeatability, air_qcp, air_solid_emissions, air_so_emissions, air_no_emissions, air_co_emissions, air_population, air_stantions
+target air_general_level
+source Росгидромет (ГГО им. А.И. Воейкова), проект «Если быть точным»
+url https://github.com/tochno-st/air_quality_cities.git
+license Open Data
+synthetic false
+missing yes
+missing_values NA, -1.0, No substance, No information
+
+feature.year int
+feature.region string
+feature.region_oktmo string
+feature.city string
+feature.city_oktmo string
+feature.air_general_level int
+feature.air_standard_index string
+feature.air_repeatability string
+feature.air_qcp string
+feature.air_solid_emissions float
+feature.air_so_emissions float
+feature.air_no_emissions float
+feature.air_co_emissions float
+feature.air_population float
+feature.air_stantions string
+
+feature.year.ru год наблюдения
+feature.region.ru субъект РФ
+feature.region_oktmo.ru код ОКТМО региона
+feature.city.ru город
+feature.city_oktmo.ru код ОКТМО города
+feature.air_general_level.ru общий уровень загрязнения (1–4)
+feature.air_standard_index.ru вещества с СИ > 10 ПДК
+feature.air_repeatability.ru наибольшая повторяемость превышения ПДК
+feature.air_qcp.ru вещества с концентрацией > 1 ПДК
+feature.air_solid_emissions.ru выбросы твёрдых веществ, тыс. т
+feature.air_so_emissions.ru выбросы SO₂, тыс. т
+feature.air_no_emissions.ru выбросы NO₂, тыс. т
+feature.air_co_emissions.ru выбросы CO, тыс. т
+feature.air_population.ru численность населения, тыс. чел.
+feature.air_stantions.ru количество станций мониторинга
+
+feature.year.en year of observation
+feature.region.en region of Russian Federation
+feature.region_oktmo.en region OKTMO code
+feature.city.en city name
+feature.city_oktmo.en city OKTMO code
+feature.air_general_level.en general air pollution level (1–4)
+feature.air_standard_index.en substances with SI > 10 MPC
+feature.air_repeatability.en max repeatability of MPC exceedance
+feature.air_qcp.en substances with concentration > 1 MPC
+feature.air_solid_emissions.en solid emissions, thousand tons
+feature.air_so_emissions.en SO₂ emissions, thousand tons
+feature.air_no_emissions.en NO₂ emissions, thousand tons
+feature.air_co_emissions.en CO emissions, thousand tons
+feature.air_population.en population, thousand people
+feature.air_stantions.en number of monitoring stations
