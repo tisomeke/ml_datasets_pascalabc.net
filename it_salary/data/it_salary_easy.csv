@@ -1,8 +1,8 @@
 experience_years,grade,specialization,city,work_format,company_segment,education,salary_rub
 4,senior,frontend,regions,office,mid_product,higher_general,295000
 6,senior,mobile,moscow,office,enterprise,higher_general,665000
-15,lead,backend,moscow,office,bigtech,not_specified,955000
-11,lead,mobile,regions,remote,enterprise,higher_tech,410000
+10,lead,backend,moscow,office,bigtech,not_specified,955000
+10,lead,mobile,regions,remote,enterprise,higher_tech,410000
 1,junior,data_science,spb,office,enterprise,not_specified,130000
 4,senior,mobile,regions,office,smb,higher_tech,285000
 7,senior,backend,moscow,office,enterprise,not_specified,485000
@@ -21,7 +21,7 @@ experience_years,grade,specialization,city,work_format,company_segment,education
 0,intern,qa,moscow,remote,mid_product,not_specified,45000
 1,junior,frontend,moscow,office,outsource,not_specified,105000
 8,senior,frontend,spb,remote,enterprise,not_specified,365000
-15,lead,backend,spb,remote,enterprise,not_specified,600000
+10,lead,backend,spb,remote,enterprise,not_specified,600000
 2,middle,backend,moscow,office,enterprise,not_specified,285000
 3,middle,backend,moscow,remote,outsource,higher_general,240000
 4,middle,frontend,regions,remote,mid_product,not_specified,155000
@@ -38,7 +38,7 @@ experience_years,grade,specialization,city,work_format,company_segment,education
 7,senior,frontend,moscow,office,smb,not_specified,295000
 2,middle,data_science,regions,remote,enterprise,higher_tech,215000
 3,middle,qa,spb,remote,enterprise,not_specified,200000
-15,lead,mobile,moscow,remote,outsource,not_specified,520000
+10,lead,mobile,moscow,remote,outsource,not_specified,520000
 1,junior,qa,moscow,hybrid,outsource,higher_tech,100000
 2,middle,qa,regions,remote,mid_product,not_specified,130000
 3,middle,backend,regions,remote,outsource,not_specified,160000
@@ -84,7 +84,7 @@ experience_years,grade,specialization,city,work_format,company_segment,education
 1,junior,devops,regions,office,enterprise,higher_tech,130000
 4,middle,backend,moscow,remote,bigtech,not_specified,415000
 2,middle,qa,regions,remote,mid_product,not_specified,155000
-11,lead,backend,regions,hybrid,bigtech,not_specified,505000
+10,lead,backend,regions,hybrid,bigtech,not_specified,505000
 3,middle,frontend,moscow,hybrid,bigtech,not_specified,370000
 7,senior,frontend,regions,office,bigtech,not_specified,315000
 8,senior,mobile,regions,office,mid_product,not_specified,250000
@@ -126,7 +126,7 @@ experience_years,grade,specialization,city,work_format,company_segment,education
 4,middle,backend,moscow,office,bigtech,not_specified,475000
 4,senior,devops,regions,office,mid_product,not_specified,415000
 6,senior,qa,regions,office,smb,not_specified,175000
-14,lead,backend,moscow,office,outsource,not_specified,500000
+10,lead,backend,moscow,office,outsource,not_specified,500000
 1,junior,qa,spb,remote,smb,not_specified,65000
 3,middle,data_science,moscow,office,mid_product,not_specified,300000
 3,middle,frontend,moscow,remote,mid_product,not_specified,280000
@@ -142,12 +142,12 @@ experience_years,grade,specialization,city,work_format,company_segment,education
 1,junior,data_science,moscow,office,mid_product,not_specified,165000
 1,junior,backend,moscow,office,mid_product,not_specified,135000
 1,junior,frontend,spb,office,enterprise,not_specified,85000
-14,lead,frontend,regions,remote,mid_product,higher_general,330000
+10,lead,frontend,regions,remote,mid_product,higher_general,330000
 2,middle,qa,regions,office,mid_product,not_specified,150000
 2,middle,backend,regions,remote,mid_product,not_specified,220000
 5,senior,frontend,regions,remote,mid_product,not_specified,215000
 3,middle,frontend,moscow,office,enterprise,not_specified,305000
-13,lead,frontend,moscow,office,mid_product,not_specified,510000
+10,lead,frontend,moscow,office,mid_product,not_specified,510000
 4,senior,backend,moscow,office,enterprise,higher_general,735000
 2,middle,qa,regions,office,mid_product,not_specified,140000
 3,middle,frontend,regions,remote,bigtech,not_specified,230000
@@ -162,7 +162,7 @@ experience_years,grade,specialization,city,work_format,company_segment,education
 3,middle,frontend,moscow,remote,enterprise,not_specified,280000
 2,middle,devops,moscow,remote,mid_product,not_specified,240000
 3,middle,frontend,regions,remote,mid_product,higher_general,180000
-12,lead,frontend,moscow,remote,bigtech,not_specified,465000
+10,lead,frontend,moscow,remote,bigtech,not_specified,465000
 0,intern,backend,moscow,hybrid,smb,not_specified,60000
 7,senior,backend,moscow,remote,mid_product,not_specified,400000
 1,junior,backend,regions,office,smb,not_specified,75000
@@ -247,7 +247,7 @@ experience_years,grade,specialization,city,work_format,company_segment,education
 2,middle,devops,moscow,hybrid,enterprise,not_specified,485000
 8,senior,frontend,regions,office,bigtech,higher_tech,395000
 2,middle,devops,regions,remote,outsource,not_specified,195000
-11,lead,qa,moscow,hybrid,mid_product,not_specified,345000
+10,lead,qa,moscow,hybrid,mid_product,not_specified,345000
 7,senior,backend,spb,office,outsource,not_specified,315000
 2,middle,qa,moscow,remote,bigtech,not_specified,220000
 2,middle,data_science,moscow,office,bigtech,higher_general,455000
@@ -329,7 +329,7 @@ experience_years,grade,specialization,city,work_format,company_segment,education
 4,senior,qa,regions,remote,mid_product,not_specified,130000
 1,junior,frontend,regions,remote,outsource,not_specified,60000
 1,junior,mobile,regions,office,mid_product,not_specified,90000
-11,lead,backend,regions,office,outsource,not_specified,345000
+10,lead,backend,regions,office,outsource,not_specified,345000
 2,middle,frontend,regions,office,enterprise,higher_general,185000
 1,junior,backend,moscow,office,enterprise,not_specified,140000
 6,senior,qa,moscow,office,mid_product,not_specified,265000
@@ -394,11 +394,11 @@ experience_years,grade,specialization,city,work_format,company_segment,education
 4,middle,data_science,moscow,office,mid_product,not_specified,350000
 2,junior,qa,regions,office,enterprise,not_specified,80000
 2,middle,backend,spb,office,mid_product,not_specified,380000
-14,lead,data_science,spb,office,bigtech,higher_tech,560000
+10,lead,data_science,spb,office,bigtech,higher_tech,560000
 2,middle,frontend,regions,remote,outsource,not_specified,150000
 1,junior,frontend,regions,remote,outsource,not_specified,70000
 6,senior,frontend,moscow,hybrid,bigtech,not_specified,530000
-14,lead,qa,spb,office,enterprise,not_specified,270000
+10,lead,qa,spb,office,enterprise,not_specified,270000
 3,middle,qa,regions,remote,bigtech,not_specified,240000
 1,junior,frontend,spb,office,enterprise,not_specified,90000
 3,middle,data_science,moscow,office,outsource,not_specified,240000
@@ -439,7 +439,7 @@ experience_years,grade,specialization,city,work_format,company_segment,education
 7,senior,backend,regions,remote,mid_product,not_specified,305000
 3,middle,frontend,regions,office,bigtech,not_specified,230000
 3,middle,qa,moscow,office,enterprise,not_specified,195000
-11,lead,frontend,moscow,office,enterprise,not_specified,510000
+10,lead,frontend,moscow,office,enterprise,not_specified,510000
 1,junior,backend,regions,office,mid_product,not_specified,100000
 2,middle,qa,spb,office,enterprise,not_specified,215000
 2,middle,qa,regions,office,bigtech,not_specified,185000
@@ -686,7 +686,7 @@ experience_years,grade,specialization,city,work_format,company_segment,education
 1,junior,qa,moscow,office,outsource,not_specified,80000
 1,junior,backend,moscow,remote,bigtech,higher_tech,145000
 3,middle,qa,moscow,office,bigtech,not_specified,215000
-14,lead,frontend,regions,office,bigtech,not_specified,445000
+10,lead,frontend,regions,office,bigtech,not_specified,445000
 4,senior,mobile,regions,remote,enterprise,not_specified,430000
 3,middle,frontend,moscow,office,bigtech,not_specified,330000
 2,middle,backend,spb,office,outsource,higher_tech,215000

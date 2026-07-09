@@ -1,8 +1,8 @@
 experience_years,grade,specialization,city,work_format,company_segment,education,posted_date,salary_rub
 4,senior,frontend,regions,office,mid_product,higher_general,2025-05-11,295000
 6,senior,mobile,moscow,office,enterprise,NA,2026-04-20,665000
-15,lead,backend,moscow,office,bigtech,not_specified,2025-01-21,955000
-11,lead,mobile,regions,remote,enterprise,higher_tech,2026-03-31,410000
+10,lead,backend,moscow,office,bigtech,not_specified,2025-01-21,955000
+10,lead,mobile,regions,remote,enterprise,higher_tech,2026-03-31,410000
 1,junior,data_science,spb,office,enterprise,not_specified,2026-02-06,130000
 4,senior,mobile,regions,office,smb,higher_tech,2025-10-23,285000
 7,senior,backend,moscow,office,enterprise,not_specified,2026-04-17,485000
@@ -21,7 +21,7 @@ experience_years,grade,specialization,city,work_format,company_segment,education
 0,intern,qa,moscow,remote,mid_product,not_specified,2025-06-10,45000
 NA,junior,frontend,moscow,office,outsource,NA,2025-01-22,105000
 8,senior,frontend,spb,remote,enterprise,NA,2026-05-31,365000
-15,lead,backend,spb,remote,enterprise,not_specified,2025-04-09,600000
+10,lead,backend,spb,remote,enterprise,not_specified,2025-04-09,600000
 2,middle,backend,moscow,office,enterprise,not_specified,2025-11-19,285000
 3,middle,backend,moscow,remote,outsource,higher_general,2026-02-12,240000
 4,middle,frontend,regions,remote,mid_product,not_specified,2026-04-16,155000
@@ -38,7 +38,7 @@ NA,middle,mobile,regions,remote,mid_product,not_specified,2026-01-15,270000
 7,senior,frontend,moscow,office,smb,not_specified,2025-09-30,295000
 2,middle,data_science,regions,NA,enterprise,higher_tech,2026-03-31,215000
 3,middle,qa,spb,remote,enterprise,not_specified,2025-04-19,200000
-15,lead,mobile,moscow,remote,outsource,not_specified,2025-01-09,520000
+10,lead,mobile,moscow,remote,outsource,not_specified,2025-01-09,520000
 1,junior,qa,moscow,hybrid,outsource,higher_tech,2026-05-26,100000
 2,middle,qa,regions,NA,mid_product,not_specified,2026-06-15,130000
 3,middle,backend,regions,remote,outsource,not_specified,2026-05-20,160000
@@ -84,7 +84,7 @@ NA,senior,data_science,spb,office,mid_product,not_specified,2025-11-24,295000
 1,junior,devops,regions,office,enterprise,higher_tech,2026-03-28,130000
 4,middle,backend,moscow,remote,bigtech,not_specified,2026-01-16,415000
 NA,middle,qa,regions,remote,mid_product,not_specified,2025-08-14,155000
-11,lead,backend,regions,hybrid,bigtech,not_specified,2025-04-25,505000
+10,lead,backend,regions,hybrid,bigtech,not_specified,2025-04-25,505000
 3,middle,frontend,moscow,hybrid,bigtech,not_specified,2025-03-16,370000
 7,senior,frontend,regions,office,bigtech,not_specified,2025-12-08,315000
 8,senior,mobile,regions,office,mid_product,not_specified,2025-05-10,250000
@@ -142,12 +142,12 @@ NA,lead,backend,moscow,office,outsource,not_specified,2025-01-14,500000
 1,junior,data_science,moscow,NA,mid_product,not_specified,2025-12-30,165000
 1,junior,backend,moscow,office,mid_product,not_specified,2025-11-20,135000
 1,junior,frontend,spb,office,enterprise,not_specified,2026-02-24,85000
-14,lead,frontend,regions,remote,mid_product,higher_general,2025-06-08,330000
+10,lead,frontend,regions,remote,mid_product,higher_general,2025-06-08,330000
 2,middle,qa,regions,office,mid_product,not_specified,2025-04-28,150000
 2,middle,backend,regions,remote,mid_product,not_specified,2025-06-03,220000
 5,senior,frontend,regions,remote,mid_product,not_specified,2026-04-28,215000
 3,middle,frontend,moscow,office,enterprise,NA,2025-03-18,305000
-13,lead,frontend,moscow,office,mid_product,not_specified,2025-06-16,510000
+10,lead,frontend,moscow,office,mid_product,not_specified,2025-06-16,510000
 4,senior,backend,moscow,office,enterprise,higher_general,2026-06-01,735000
 2,middle,qa,regions,office,mid_product,not_specified,2025-07-28,140000
 3,middle,frontend,regions,NA,bigtech,not_specified,2025-11-07,230000
@@ -162,7 +162,7 @@ NA,lead,backend,moscow,office,outsource,not_specified,2025-01-14,500000
 3,middle,frontend,moscow,remote,enterprise,not_specified,2025-04-09,280000
 2,middle,devops,moscow,NA,mid_product,not_specified,2025-04-11,240000
 3,middle,frontend,regions,remote,mid_product,higher_general,2025-04-02,180000
-12,lead,frontend,moscow,remote,bigtech,not_specified,2026-04-16,465000
+10,lead,frontend,moscow,remote,bigtech,not_specified,2026-04-16,465000
 0,intern,backend,moscow,hybrid,smb,not_specified,2025-11-04,60000
 7,senior,backend,moscow,remote,mid_product,not_specified,2025-01-21,400000
 1,junior,backend,regions,office,smb,not_specified,2025-08-20,75000
@@ -247,7 +247,7 @@ NA,junior,frontend,moscow,remote,outsource,not_specified,2026-01-25,75000
 2,middle,devops,moscow,hybrid,enterprise,not_specified,2025-05-21,485000
 8,senior,frontend,regions,office,bigtech,higher_tech,2025-06-24,395000
 2,middle,devops,regions,remote,outsource,not_specified,2026-06-17,195000
-11,lead,qa,moscow,hybrid,mid_product,not_specified,2025-08-15,345000
+10,lead,qa,moscow,hybrid,mid_product,not_specified,2025-08-15,345000
 7,senior,backend,spb,office,outsource,not_specified,2026-04-04,315000
 2,middle,qa,moscow,remote,bigtech,not_specified,2026-05-03,220000
 2,middle,data_science,moscow,office,bigtech,higher_general,2025-02-22,455000
@@ -329,7 +329,7 @@ NA,middle,frontend,regions,remote,outsource,not_specified,2026-04-16,180000
 4,senior,qa,regions,remote,mid_product,not_specified,2025-05-30,130000
 1,junior,frontend,regions,remote,outsource,not_specified,2025-03-29,60000
 1,junior,mobile,regions,office,mid_product,not_specified,2026-01-01,90000
-11,lead,backend,regions,office,outsource,not_specified,2025-12-24,345000
+10,lead,backend,regions,office,outsource,not_specified,2025-12-24,345000
 NA,middle,frontend,regions,office,enterprise,higher_general,2025-04-20,185000
 1,junior,backend,moscow,NA,enterprise,not_specified,2025-06-15,140000
 6,senior,qa,moscow,office,mid_product,not_specified,2025-04-22,265000
@@ -394,11 +394,11 @@ NA,middle,devops,regions,office,enterprise,not_specified,2025-01-17,285000
 4,middle,data_science,moscow,office,mid_product,not_specified,2025-05-11,350000
 2,junior,qa,regions,office,enterprise,NA,2025-06-20,80000
 2,middle,backend,spb,office,mid_product,not_specified,2025-05-17,380000
-14,lead,data_science,spb,office,bigtech,NA,2026-03-03,560000
+10,lead,data_science,spb,office,bigtech,NA,2026-03-03,560000
 2,middle,frontend,regions,remote,outsource,not_specified,2026-02-25,150000
 NA,junior,frontend,regions,remote,outsource,not_specified,2025-11-01,70000
 NA,senior,frontend,moscow,hybrid,bigtech,not_specified,2025-06-13,530000
-14,lead,qa,spb,office,enterprise,not_specified,2025-12-24,270000
+10,lead,qa,spb,office,enterprise,not_specified,2025-12-24,270000
 NA,middle,qa,regions,remote,bigtech,not_specified,2026-01-16,240000
 1,junior,frontend,spb,office,enterprise,not_specified,2026-05-28,90000
 3,middle,data_science,moscow,office,outsource,not_specified,2026-05-23,240000
@@ -439,7 +439,7 @@ NA,middle,data_science,regions,office,mid_product,not_specified,2026-04-26,20500
 NA,senior,backend,regions,remote,mid_product,not_specified,2026-01-07,305000
 3,middle,frontend,regions,office,bigtech,not_specified,2025-03-20,230000
 3,middle,qa,moscow,office,enterprise,not_specified,2025-12-18,195000
-11,lead,frontend,moscow,office,enterprise,not_specified,2025-01-14,510000
+10,lead,frontend,moscow,office,enterprise,not_specified,2025-01-14,510000
 1,junior,backend,regions,office,mid_product,not_specified,2025-10-18,100000
 2,middle,qa,spb,office,enterprise,not_specified,2026-06-12,215000
 2,middle,qa,regions,office,bigtech,not_specified,2026-03-15,185000
@@ -686,7 +686,7 @@ NA,middle,backend,moscow,remote,mid_product,not_specified,2026-01-03,345000
 1,junior,qa,moscow,office,outsource,NA,2026-03-07,80000
 1,junior,backend,moscow,remote,bigtech,higher_tech,2026-02-01,145000
 3,middle,qa,moscow,office,bigtech,not_specified,2026-03-07,215000
-14,lead,frontend,regions,office,bigtech,not_specified,2025-11-12,445000
+10,lead,frontend,regions,office,bigtech,not_specified,2025-11-12,445000
 4,senior,mobile,regions,remote,enterprise,not_specified,2025-06-27,430000
 3,middle,frontend,moscow,office,bigtech,NA,2025-03-06,330000
 2,middle,backend,spb,office,outsource,higher_tech,2026-02-19,215000

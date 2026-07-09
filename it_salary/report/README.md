@@ -18,7 +18,7 @@
 
 | Признак | Тип | Роль | Смысл |
 |---------|-----|------|-------|
-| experience_years | Int | Признак | Опыт работы в годах (0–15) |
+| experience_years | Int | Признак | Опыт работы в годах (0–10) |
 | grade | Categorical | Признак | Грейд: intern, junior, middle, senior, lead |
 | specialization | Categorical | Признак | Специализация: backend, frontend, qa, devops, data_science, mobile |
 | city | Categorical | Признак | Город: moscow, spb, regions (easy/medium) или конкретные города (raw) |
