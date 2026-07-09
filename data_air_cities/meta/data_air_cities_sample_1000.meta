@@ -1,7 +1,7 @@
 name data_air_cities_sample_1000
 title.ru Состояние загрязнения атмосферы в городах России (сэмпл 1000)
 title.en Air pollution in Russian cities (sample 1000)
-task regression
+task classification, regression, clustering
 family AirCities
 variant sample_1000
 rows 1000
@@ -14,7 +14,7 @@ url https://github.com/tochno-st/air_quality_cities.git
 license Open Data
 synthetic false
 missing yes
-missing_values NA, -1.0, No substance, No information
+missing_values NA, -1.0, -9, No substance, No information
 
 feature.year int
 feature.region string

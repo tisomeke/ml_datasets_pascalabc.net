@@ -1,7 +1,7 @@
 name data_air_cities_raw
 title.ru Состояние загрязнения атмосферы в городах России
 title.en Air pollution in Russian cities
-task regression
+task classification, regression, clustering
 family AirCities
 variant raw
 rows 3992
